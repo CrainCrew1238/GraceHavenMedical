@@ -71,10 +71,10 @@
   },
   "footer": {
     "phoneNumber": "Phone Number",
-    "monThursFri": "Monday, Thursday, and Friday: 6 PM EST to 8 PM EST",
-    "saturday": "Saturday: 9 AM EST to 3 PM EST",
+    "monThursFri": "Monday, Thursday, and Friday: 10 AM EST to 6 PM EST",
+    "saturday": "Saturday: 10 AM EST to 12 PM EST",
     "outside": "Outside Office Hours: By Appointment Only",
-    "tuesToSat": "Tuesday - Saturday: 10 AM EST to 8 PM EST",
+    "tuesToSat": "Tuesday - Saturday: 10 AM EST to 6 PM EST",
     "sunToMon": "Sunday / Monday: By Appointment Only",
     "online": "Online Hours (Mon - Sat): 9 AM EST to 9 PM EST",
     "inHome": "Mobile In-Home Appointments (Mon - Sat): 9 AM EST to 9 PM EST",
