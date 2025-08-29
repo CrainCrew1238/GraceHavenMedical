@@ -71,10 +71,9 @@
   },
   "footer": {
     "phoneNumber": "Phone Number",
-    "monThursFri": "Monday, Thursday, and Friday: 10 AM EST to 6 PM EST",
+    "tuesToFri": "Tuesday - Friday: 10 AM EST to 6 PM EST",
     "saturday": "Saturday: 10 AM EST to 12 PM EST",
     "outside": "Outside Office Hours: By Appointment Only",
-    "tuesToSat": "Tuesday - Saturday: 10 AM EST to 6 PM EST",
     "sunToMon": "Sunday / Monday: By Appointment Only",
     "online": "Online Hours (Mon - Sat): 9 AM EST to 9 PM EST",
     "inHome": "Mobile In-Home Appointments (Mon - Sat): 9 AM EST to 9 PM EST",
@@ -1065,7 +1064,7 @@
         },
         {
           "header": "Food Analyzer & Allergy Test Panel",
-          "body": "Food Analyzer Panel a state-of-the-art food sensitivity test measuring total IgG antibodies for a vast array of food sources. Food Analyzer evaluates 286 food antigens using nano-bead technology on 1mL of serum. Results assist practitioners to curate diet and lifestyle guidance for their patients to reduce and eliminate symptoms related to adverse food reactions.",
+          "body": "Food Analyzer Panel is a state-of-the-art food sensitivity test measuring total IgG antibodies for a vast array of food sources. Food Analyzer evaluates 286 food antigens using nano-bead technology on 1mL of serum. Results assist practitioners to curate diet and lifestyle guidance for their patients to reduce and eliminate symptoms related to adverse food reactions.",
           "price": "$399",
           "button": "Book Now",
           "buttonLink": "https://www.vagaro.com/cl/eiT7R~ZGTpkg0pmVlw5rSCPlTq5~2Fd58FA-xICUSYE=",
@@ -1104,7 +1103,7 @@
           "imageURI": "dr85cqwlh/image/upload/v1727031122/lab-testing-gallery2-8_plb8p7.png"
         },
         {
-          "header": "Tramatic Brain Lab Test",
+          "header": "Traumatic Brain Lab Test",
           "body": "The Traumatic Brain Lab Test is crucial for diagnosing and treating Traumatic Brain Injury (TBI), a condition often resulting from significant head trauma. Especially common among athletes, veterans, and car accident survivors, TBI can impact anyone. With 19 targeted panels, this comprehensive test assesses optimal intelligence and aims to manage the lifelong symptoms of TBI effectively.",
           "price": "$799",
           "button": "Book Now",
@@ -1165,7 +1164,7 @@
     },
     "universities": {
       "title": "Trusted by Top Sports Universities: Clemson, Harvard, and More",
-      "text": "Universities such as Clemson, Harvard, and Texas Tech Universities all use the Fit 3D system for their atheletes."
+      "text": "Universities such as Clemson, Harvard, and Texas Tech Universities all use the Fit 3D system for their athletes."
     },
     "bodyData": {
       "title": "Accurate Body Data: The Key to Personalized Health and Wellness Plans",
@@ -1225,6 +1224,18 @@
           "title": "Founder & CEO",
           "text": "Tracy, who has a background in Physics, Applied Mathematics, and 25 years in IT, focuses on healing and weight loss. She uses her understanding of the body's healing abilities and her professional experience to innovate in cellular detox and weight loss. By sharing her personal health journey, she encourages others to learn and grow within this community.",
           "imageURI": "dr85cqwlh/image/upload/v1727040195/about-us-roster-tcrain_y2tqcu.jpg"
+        },
+        {
+          "name": "Jonathan Hodor, DO",
+          "title": "Medical Director",
+          "text": "Dr. Jonathan Hodor, DO, is a highly regarded obstetrician-gynecologist specializing in maternal-fetal medicine. He completed his medical training at Georgetown University in 2006 and has been practicing for over 20 years. He is board-certified in Maternal-Fetal Medicine and Obstetrics and Gynecology, and he speaks both English and Spanish. Dr. Hodor is known for his compassionate approach to patient care and his expertise in treating conditions such as hot flashes, menopause, and obstetrics & gynecology. He has received high patient ratings and is highly recommended by his peers.",
+          "imageURI": "coming soon"
+        },
+        {
+          "name": "Lawrence Kelly, MD",
+          "title": "50-State Telehealth Medical Director",
+          "text": " Dr. Lawrence W. Kelly is an emergency medicine physician in Stony Brook, New York. He received his medical degree from State University of New York Downstate Medical Center College of Medicine and has been in practice 20+ years. ",
+          "imageURI": "coming soon"
         },
         {
           "name": "Arlyn Sieg",
