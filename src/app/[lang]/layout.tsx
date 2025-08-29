@@ -143,7 +143,7 @@ export default async function RootLayout({
           </Container>
           <Container>
             <hr />
-            <div className="mt-5">&copy; 2025 Grace Haven Medical. All Rights Reserved.</div>
+            <div className="mt-5">&copy; 2023 Grace Haven Medical. All Rights Reserved.</div>
           </Container>
         </footer>
       </body>
