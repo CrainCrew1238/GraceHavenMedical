@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev & next-video sync -w",
-    "prebuild": "mkdir -p /vercel/output/static/_next-video || true",
     "build": "next build",
     "postbuild": "echo 'Build Complete. Magic 🪄'",
     "start": "next start",
