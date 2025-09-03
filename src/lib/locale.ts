@@ -1,7 +1,3 @@
-/**
- * @fileoverview Helpers for resolving the user's locale from cookies
- * or HTTP headers. Used by middleware and dictionary loading logic.
- */
 
 import { cookies, headers } from 'next/headers';
 
