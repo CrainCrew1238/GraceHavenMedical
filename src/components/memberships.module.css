@@ -51,3 +51,40 @@
   margin-left: 10px;
   width: calc(100% - 30px);
 }
+
+/* make the bootstrap Button behave like a tidy flex row */
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  /* keep your existing border/background styles here */
+}
+
+/* reserve space so the label doesn't shift when the icon rotates */
+.toggleLabel {
+  line-height: 1;
+}
+
+/* chevron animation—no class toggling needed */
+.chevron {
+  flex: 0 0 18px;             /* fixes width so layout won’t jiggle */
+  width: 18px;
+  height: 18px;
+  transition: transform 200ms ease;
+  transform-origin: 50% 50%;  /* rotate around center for smoothness */
+  transform: rotate(0deg);
+}
+
+/* rotate when expanded */
+.toggle[aria-expanded="true"] .chevron {
+  transform: rotate(180deg);
+}
+
+/* optional: a tiny nudge on hover for affordance */
+.toggle:hover .chevron {
+  transform: rotate(6deg);
+}
+.toggle[aria-expanded="true"]:hover .chevron {
+  transform: rotate(174deg);
+}

@@ -1,0 +1,1495 @@
+{
+  "locales": {
+    "language": "Language",
+    "english": "English",
+    "spanish": "Español"
+  },
+  "pageTitles": {
+    "memberships": "Memberships",
+    "offerings": "Services",
+    "aboutUs": "About",
+    "shop": "Shop",
+    "glucoferrin": "Glucoferrin",
+    "crunchi": "Crunchi Skincare",
+    "patchAid": "PatchAid Vitamins",
+    "contact": "Contact"
+  },
+  "links": {
+    "headers": {
+      "therapies": "therapies and treatments",
+      "diagnostics": "spa services and body data diagnostics"
+    },
+    "therapies": [
+      {
+        "title": "Weight loss programs",
+        "subtitle": "prescription and natural weight loss",
+        "link": "/weight-loss"
+      },
+      {
+        "title": "Men's Health",
+        "subtitle": "Testosterone Injections & HRT, Muscle Builders, & PRP Hair Restoration",
+        "link": "/mens-health"
+      },
+      {
+        "title": "iv therapy",
+        "subtitle": "Revitalize with IV Hydration",
+        "link": "/iv-therapy"
+      },
+      {
+        "title": "Weight Loss & IM Shots",
+        "subtitle": "Powerful IM Shots for Weight Loss + NAD+ Boost",
+        "link": "/weight-loss-and-anti-aging-injections"
+      }
+    ],
+    "diagnostics": [
+      {
+        "title": "infrared therapy",
+        "subtitle": "Comprehensive Therapy: Far, Near, and Mid-range Care",
+        "link": "/infrared-therapy"
+      },
+      {
+        "title": "magnet therapy",
+        "subtitle": "magnetic fields to ease pain and speed up recovery",
+        "link": "/magnet-therapy"
+      },
+      {
+        "title": "ionized foot detox",
+        "subtitle": "detoxifying the body with ionized water",
+        "link": "/ionized-foot-detox"
+      },
+      {
+        "title": "Lab Testing",
+        "subtitle": "Heavy metals, wellness, weight loss",
+        "link": "/lab-testing"
+      },
+      {
+        "title": "3D Personalized Body Composition",
+        "subtitle": "Advanced imaging for 3d Body composition analysis",
+        "link": "/3d-body-composition"
+      }
+    ]
+  },
+  "footer": {
+    "phoneNumber": "Phone Number",
+    "monThursFri": "Tuesday - Friday: 10 AM EST to 6 PM EST",
+    "saturday": "Saturday: 10 AM EST to 12 PM EST",
+    "outside": "Outside Office Hours: By Appointment Only",
+    "tuesToSat": "Tuesday - Saturday: 10 AM EST to 6 PM EST",
+    "sunToMon": "Sunday / Monday: By Appointment Only",
+    "online": "Online Hours (Mon - Sat): 9 AM EST to 9 PM EST",
+    "inHome": "Mobile In-Home Appointments (Mon - Sat): 9 AM EST to 9 PM EST",
+    "disclaimer1": "The FDA's jurisdiction is limited to food and drugs, not including supplements, which are not designed to diagnose, prevent, treat, or cure any diseases.",
+    "disclaimer2": "Results can vary. In a 68-week clinical trial of non-diabetic patients taking GLP-1 treatment who achieved and maintained a dose of 2.4 mg/week of GLP-1 treatment, the average weight loss was 15% of body weight. Similarly, in a 72-week study of adults without diabetes taking premium medications, the average weight loss was 15% (34 pounds) for 5 mg, 19.5% (44 pounds) for 10 mg, 20.9% (48 pounds) for 15 mg, compared to 3.1% (7 pounds) for the placebo group.",
+    "returns": "Please note, our policy does not permit returns.",
+    "privacy": "Privacy Policy and HIPAA Notice",
+    "hipaa": "<h5>HIPAA Privacy Statement</h5><p><strong>Your Privacy Matters:</strong> At Grace Haven Medical Cellular Detox & Weight Loss, LLC, we prioritize the protection of your health information and are dedicated to maintaining your privacy in full compliance with the Health Insurance Portability and Accountability Act (HIPAA). This notice outlines how we handle your Protected Health Information (PHI), your rights regarding this data, and our legal obligations.</p><p><strong>Receiving PHI:</strong> Please note that communications from our website, including emails or electronic transmissions, may contain PHI. PHI refers to any health information that can identify you and is related to your medical condition, treatment, or payment for healthcare services.</p><p><strong>Prohibited Activities:</strong> If you are not the intended recipient of an email or communication containing PHI, any unauthorized reviewing, copying, disseminating, printing, or distributing of this information is strictly prohibited.</p><p><strong>Accidental Disclosure:</strong> If you believe you have received an email or communication containing PHI in error, please notify us immediately by replying to the email or contacting us at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. Please promptly delete the email or message without sharing it with others.</p><p><strong>How We May Use and Disclose Your Health Information:</strong> Grace Haven Medical Cellular Detox & Weight Loss, LLC may use and disclose your PHI for specific purposes, including:</p><ul><li>Treatment coordination, such as facilitating care with other healthcare providers if you require hospitalization.</li><li>To protect your safety and the safety of others if we believe you are a potential threat to yourself or others.</li></ul><p><strong>Your Rights Regarding Your Health Information:</strong> As a client of Grace Haven Medical Cellular Detox & Weight Loss, LLC, you have the right to:</p><ul><li>Inspect, copy, or request corrections to your PHI.</li><li>Request restrictions on certain uses or disclosures of your PHI.</li><li>Request an accounting of disclosures we have made of your PHI</li><li>Lodge a complaint if you feel your privacy rights have been violated. You may contact us directly or file a complaint with the U.S. Department of Health and Human Services. Grace Haven will not retaliate against you for filing a complaint.</li></ul><p><strong>Our Legal Duties Regarding Your Health Information:</strong> As required by law, Grace Haven Medical Cellular Detox & Weight Loss, LLC is committed to:</p><ul><li>Maintaining the privacy of your PHI.</li><li>Adhering to the HIPAA Privacy Rule for the use and disclosure of PHI.</li><li>Implementing security measures in compliance with the HIPAA Security Rule to protect your electronic PHI (ePHI).</li><li>Complying with the HIPAA Breach Notification Rule, which mandates that we inform you in the event of a breach involving your PHI.</li></ul><p><strong>Privacy and Security Oversight:</strong> Our designated Privacy Officer, Tracy Crain, and Security Officer, Dr. Sean Arora, are responsible for ensuring our compliance with HIPAA regulations and the protection of your health information. You can reach them at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a></p><p><strong>Training and Awareness:</strong> Our staff undergoes regular HIPAA training to stay informed about privacy, security, and breach notification requirements. We are committed to upholding a culture of compliance and respect for your privacy rights.</p><p><strong>Reporting Violations or Breaches:</strong> If you believe your privacy has been compromised or have concerns about the security of your health information, please contact us at<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. We will promptly investigate and, if necessary, take corrective action.</p><p><strong>Further Information:</strong> For more information about our privacy practices or to address specific questions, please contact us at .<a href='mailto:Privacy@GraceHavenMedical.com'>Privacy@GraceHavenMedical.com</a>. We are committed to ensuring the confidentiality of your health information and addressing any concerns you may have.</p>"
+  },
+  "contactDirect": {
+    "header": "Still have questions?",
+    "body": "Contact us for more information.",
+    "button": "Contact Us"
+  },
+  "homePage": {
+    "heroTitle1": "You’re Safe at Grace Haven Medical",
+    "heroTitle2": "",
+    "heroText1": "At Grace Haven Medical Cellular Detox & Weight Loss in Tampa, Florida, we help you build life-changing health habits with care tailored to your unique needs. Our team blends natural, toxin-free solutions with advanced therapies to heal your body from the inside out.",
+    "heroText2": "",
+    "heroText3": "Available as your private concierge for telehealth services in 50 states.",
+    "heroButton": "Book Now",
+    "contentBlocks": {
+      "medicalWeightLoss": {
+        "title": "Prescription Medication or Organic Weight Loss Alternative",
+        "text": "Improve your overall health significantly by taking steps to stabilize insulin resistance, which can lead to better blood sugar control. Additionally, suppressing your appetite can help in managing your weight more effectively, leading to a healthier lifestyle.",
+        "button": "Learn More"
+      },
+      "newWave": {
+        "subtitle": "Transform Your Body",
+        "title": "Natural Cellular Detox and Weight Loss Alternative with NewWave",
+        "text": "The New Wave Weight Loss Supplement System represents a revolutionary advancement in weight management. Far from being a mere trend, this innovative system offers a scientifically supported method aimed at helping people reach their weight loss objectives in a sustainable manner. These supplements are exclusively available for purchase by New Wave Weight Loss Practitioners.",
+        "button": "Learn More",
+        "button2": "Book Free Consultation"
+      },
+      "IVTherapy": {
+        "title": "Experience the Benefits of IV Therapy",
+        "text": "IV Therapy at Grace Haven Medical Cellular Detox and Weight Loss offers a range of benefits, including increased energy, improved hydration, enhanced immune support, and efficient nutrient absorption. Our experienced medical professionals will customize your IV Therapy treatment to address your specific needs and goals, ensuring you receive the optimal blend of vitamins, minerals, and antioxidants.",
+        "button": "Learn More"
+      },
+      "app": {
+        "title": "Discover myGrace Fitness App Today",
+        "text": "Understanding that sustainable weight loss requires a comprehensive approach, we provide fitness and diet plans along with personalized trackers to help you stay committed to your new habits. Our team of certified professionals is readily available to guide and support you throughout your entire journey.",
+        "button": "Download - App Store",
+        "button2": "Download - Play Store"
+      },
+      "infraredTherapy": {
+        "title": "Experience the Healing Power of Full Spectrum Infrared Therapy",
+        "text": "<p>Our Full Spectrum Infrared Therapy utilizes FAR, NEAR, and MID infrared wavelengths to penetrate deep into your body, providing numerous health benefits. From pain relief to detoxification, our therapy can help you achieve optimal wellness.</p><div class='row'><div class='col-sm-6'><p><h4>Pain Relief</h4></p><p>Alleviate muscle and joint pain, reduce inflammation, and improve circulation with our infrared therapy.</p><p><h4>Ionizing</h4></p><p>Ease muscle and joint discomfort, diminish inflammation, and enhance blood flow through the process of ionization in our infrared therapy.</p></div><div class='col-sm-6'><p><h4>Detoxification</h4></p><p>Sweat out toxins, boost your immune system, and improve your overall well-being with our infrared therapy.</p><p><h4>Skin Tightening</h4></p><p>Experience skin tightening, alongside detoxing, immune system boosting, and enhanced overall well-being with our infrared therapy.</p></div></div>",
+        "button": "Learn More"
+      },
+      "wellness": {
+        "title": "Experience Optimal Health and Wellness with Grace Haven Medical",
+        "text": "Our Health Coaching program at Grace Haven Medical is designed to provide personalized support and guidance to help you reach your health goals. Our experienced coaches will work closely with you to create a customized plan that fits your unique needs and lifestyle.",
+        "button": "Learn More"
+      },
+      "mobile": {
+        "title": "Explore Our Mobile Health Care Solutions",
+        "text": "Elevate your well-being with our extensive in-home mobile services throughout the Greater Tampa Area. Discover tailored weight loss solutions through our membership plans that include telehealth prescriptions and injections. Enhance your health with our IV therapy, vitamin infusions, and weight loss injections. Enjoy the added convenience of lab testing, all within the comfort of your own home. Ideal for those seeking professional health services without the need to step outside. Our services are available at your home, on the beach, or even at your workplace.",
+        "button": "Reserve Your Spot Today",
+        "button2": "Inquiries - Get in Touch"
+      },
+      "magnets": {
+        "title": "Unlock the Healing Power of Magnet Therapy",
+        "text": "<p>Experience the incredible health benefits of Magnet Therapy, a natural and non-invasive treatment that harnesses the power of magnetic fields to promote healing and wellness.</p><div class='row'><div class='col-sm-6'><h3>Enhance</h3><p>Improve circulation, reduce pain, and accelerate recovery with our Magnet Therapy treatments.</p></div><div class='col-sm-6'><h3>Revitalize</h3><p>Rebalance your body's energy and restore overall well-being with the power of magnets.</p></div></div>",
+        "button": "Learn More"
+      },
+      "footDetox": {
+        "title": "Experience the Power of Ionized Foot Detox for Deep Detoxification",
+        "text": "Our Ionized Foot Detox service utilizes advanced technology to help your body eliminate toxins, improve circulation, and promote overall well-being. By immersing your feet in a warm, ionized bath, the detoxification process is enhanced, leaving you feeling refreshed and revitalized."
+      },
+      "labTesting": {
+        "title": "Unlock the Benefits of Personalized Body Data for Lab Testing, Wellness, and Weight Loss",
+        "text": "At Grace Haven Medical, we provide state-of-the-art Personalized Body Data services encompassing Lab Testing, Wellness, and Weight Loss programs. Our holistic approach enables us to customize treatments to your specific needs, guiding you toward optimal health and successful weight loss.<ul><li>Precise Health Insights through Accurate Lab Testing</li><li>Comprehensive Wellness Solutions for Complete Well-being</li><li>Highly Effective Weight Loss Programs for Sustainable Results.</li></ul>"
+      },
+      "virtual": {
+        "title": "Connect with Nurse Practitioners Virtually Through Grace Haven Patient Portal",
+        "text": "The Grace Haven Portal transforms patient care by allowing users to effortlessly upload medical records and participate in Good Faith Exams conducted by certified nurse practitioners. This holistic method encompasses lab analysis and weight management programs, guaranteeing personalized and high-quality healthcare. Whether it's through face-to-face meetings or virtual consultations, We Treat promises outstanding and accessible healthcare solutions.",
+        "button": "Patient Portal",
+        "button2": "Book Now"
+      }
+    },
+    "membershipPlans": {
+      "title": "Membership Plans",
+      "bodyText": "Our weight loss program offers a comprehensive range of options tailored to meet your unique needs, including a selection of both generic and brand-name medications. To further personalize your journey, our Platinum membership enhances your regimen by integrating medication with IV Therapy and Full Spectrum Therapy, aiming for optimal results.",
+      "plans": [
+        {
+          "planName": "GLP-1 Standard - Get Started & Maintenance Mode",
+          "planText": "Weight loss up to 1 lb. per week.",
+          "planPrice": "$299 / mo",
+          "listItems": [
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "Unlimited 30- minute FAR Infrared + Red Light Therapy Cellular Detox Session",
+            "Weekly Fit3D Personalized Body Composition Data",
+            "Custom Meal Plan & Grocery Shopping Lists",
+            "Custom Workout & Fitness Plan",
+            "Weekly Consultation and Coaching for Weight Loss",
+            "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
+          ],
+          "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
+          "getStarted": "Get Started - I'm Ready!",
+          "bookingLink": "https://www.vagaro.com//Users/BusinessWidget.aspx?enc=MMLjhIwJMcwFQhXLL7ifVN8SzlOQriDI7QmxlJ0+VpnFGJfwHF54xXtrZRRZUn5L5mfJC40MRL0lUnnmjOkSQz80uMkmnVe97oLVpdOYczpycmdHicCwR9pjVvK8Bn8D3+256MmyOmRbM8igdhe/T3FZVOeteS7RFi8e4X5JhYU4CInSCGw7p5fN9N1lJAXoD2E3Z3OuMosbQQr35cYK0cw9N8dfKrpczpssSxgk0AjzdXg9qmyqpQPRZi2q0LDgNm5mWylaTLWlC0iEb7UIs9LIsucXwcMgdm+zw/XaTfAm96ZQ/QYc4fhiffU13GzbCJeM1/FRlOCr6/HQ8wE0Uy2IZDdN72xwXIH+IJ1fXw78s3WMz+NP18cgF/eUE4e9Leysy208I3//ezkk/MPB3Ziyi427eH5GkPEDHTHDNRmKVCnLxV8T3YiVoBHwEzJz/HJZuhdAa4M//OjHDqch+JaA9tPYLFLV4iUSZ6DzfnM="
+        },
+        {
+          "planName": "GLP-1 Stacked with Phentermine - Appetite Control",
+          "planText": "Average weight loss is up to 2 lbs. per week consistently focusing on energy & appetite control.",
+          "planPrice": "$399 / mo",
+          "listItems": [
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "Additional appetite suppression with ½ tab of Phentermine Prescription As Prescribed",
+            "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
+            "Weekly Fit3D Personalized Body Composition Data",
+            "Custom Meal Plan & Grocery Shopping Lists",
+            "Custom Workout & Fitness Plan",
+            "Weekly Consultation and Coaching for Weight Loss",
+            "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
+          ],
+          "autoRenewNotice": "This membership automatically renews every 4 weeks, month-to-month flexibility.",
+          "getStarted": "Get Started - I'm Ready!",
+          "bookingLink": "https://www.vagaro.com//Users/BusinessWidget.aspx?enc=MMLjhIwJMcwFQhXLL7ifVN8SzlOQriDI7QmxlJ0+VpnFGJfwHF54xXtrZRRZUn5L5mfJC40MRL0lUnnmjOkSQz80uMkmnVe97oLVpdOYczpycmdHicCwR9pjVvK8Bn8D3+256MmyOmRbM8igdhe/T3FZVOeteS7RFi8e4X5JhYU4CInSCGw7p5fN9N1lJAXoD2E3Z3OuMosbQQr35cYK0cw9N8dfKrpczpssSxgk0AjzdXg9qmyqpQPRZi2q0LDgNm5mWylaTLWlC0iEb7UIs9LIsucXwcMgdm+zw/XaTfAm96ZQ/QYc4fhiffU13GzbCJeM1/FRlOCr6/HQ8wE0Uy2IZDdN72xwXIH+IJ1fXw78s3WMz+NP18cgF/eUE4e9Leysy208I3//ezkk/MPB3Ziyi427eH5GkPEDHTHDNRmKVCnLxV8T3YiVoBHwEzJz/HJZuhdAa4M//OjHDqch+JaA9tPYLFLV4iUSZ6DzfnM="
+        },
+        {
+          "planName": "Premium Plan - Double Time & Muscle Preservation",
+          "planText": "Weight loss up to 2 lbs. per week.",
+          "planPrice": "$499 / mo",
+          "listItems": [
+            "4 Weekly Injections, In-Office Service or Self-Injected At Home",
+            "Premium Compound with B12 & Glycine for Energy & Muscle Preservation",
+            "Unlimited 30- minute FULL SPECTRUM Infrared + Magnet Therapy + Red Light Therapy Cellular Detox Session",
+            "Weekly Fit3D Personalized Body Composition Data",
+            "Custom Meal Plan & Grocery Shopping Lists",
+            "Custom Workout & Fitness Plan",
+            "Weekly Consultation and Coaching for Weight Loss",
+            "Plus enjoy a 10% discount on spa services, Patch-Aid Products, and the Glucoferrin Supplement."
+          ],
+          "autoRenewNotice": "This membership automatically renews every 4 weeks, month-to-month flexibility.",
+          "getStarted": "Get Started - I'm Ready!",
+          "bookingLink": "https://www.vagaro.com//Users/BusinessWidget.aspx?enc=MMLjhIwJMcwFQhXLL7ifVN8SzlOQriDI7QmxlJ0+VpnFGJfwHF54xXtrZRRZUn5L5mfJC40MRL0lUnnmjOkSQz80uMkmnVe97oLVpdOYczpycmdHicCwR9pjVvK8Bn8D3+256MmyOmRbM8igdhe/T3FZVOeteS7RFi8e4X5JhYU4CInSCGw7p5fN9N1lJAXoD2E3Z3OuMosbQQr35cYK0cw9N8dfKrpczpssSxgk0AjzdXg9qmyqpQPRZi2q0LDgNm5mWylaTLWlC0iEb7UIs9LIsucXwcMgdm+zw/XaTfAm96ZQ/QYc4fhiffU13GzbCJeM1/FRlOCr6/HQ8wE0Uy2IZDdN72xwXIH+IJ1fXw78s3WMz+NP18cgF/eUE4e9Leysy208I3//ezkk/MPB3Ziyi427eH5GkPEDHTHDNRmKVCnLxV8T3YiVoBHwEzJz/HJZuhdAa4M//OjHDqch+JaA9tPYLFLV4iUSZ6DzfnM="
+        },
+        {
+          "planName": "Phentermine Plan",
+          "planText": "Designed to suppress appetite, aiding in weight loss.",
+          "planPrice": "$99 / mo",
+          "listItems": [
+            "Appetite Suppression: Phentermine aids in managing hunger and diminishing appetite, facilitating adherence to a low-calorie diet.",
+            "Enhanced Energy Levels: Phentermine has the potential to elevate your energy, thereby enhancing motivation and commitment to a workout regimen.",
+            "Effectiveness in Weight Loss: Clinical research has demonstrated that phentermine can significantly aid in weight loss, with users losing an average of 3% of their initial body weight within the first three months, and between 5-7% after six months."
+          ],
+          "autoRenewNotice": "This membership automatically renews every 4 weeks, requiring a minimum commitment of 12 weeks.",
+          "getStarted": "Get Started - I'm Ready!",
+          "bookingLink": "https://www.vagaro.com//Users/BusinessWidget.aspx?enc=MMLjhIwJMcwFQhXLL7ifVN8SzlOQriDI7QmxlJ0+VpnFGJfwHF54xXtrZRRZUn5L5mfJC40MRL0lUnnmjOkSQz80uMkmnVe97oLVpdOYczpycmdHicCwR9pjVvK8Bn8D3+256MmyOmRbM8igdhe/T3FZVOeteS7RFi8e4X5JhYU4CInSCGw7p5fN9N1lJAXoD2E3Z3OuMosbQQr35cYK0cw9N8dfKrpczpssSxgk0AjzdXg9qmyqpQPRZi2q0LDgNm5mWylaTLWlC0iEb7UIs9LIsucXwcMgdm+zw/XaTfAm96ZQ/QYc4fhiffU13GzbCJeM1/FRlOCr6/HQ8wE0Uy2IZDdN72xwXIH+IJ1fXw78s3WMz+NP18cgF/eUE4e9Leysy208I3//ezkk/MPB3Ziyi427eH5GkPEDHTHDNRmKVCnLxV8T3YiVoBHwEzJz/HJZuhdAa4M//OjHDqch+JaA9tPYLFLV4iUSZ6DzfnM="
+        }
+      ]
+    },
+    "featuredPlans": {
+      "organicDetoxAndNewWave": {
+        "title": "Natural Weight Loss Alternative",
+        "programTitle": "Organic Cellular Detox & Weight Loss Program with NewWave Sublingual Program",
+        "programSubtitle": "One Time Payment for 63-Day Focused Program",
+        "programDescription": "This program was designed to naturally reset your metabolism. It reduces inflammation on a 'cellular level', removes toxins and balances hormones, allowing the body to metabolize fat and maintain a healthy physiology. That is why we get fast and sustainable results.",
+        "price": "$2499",
+        "listItemText": "Includes:",
+        "listItems": [
+          "6 Natural Supplements: Boost Fat Burning, Balance Hormones, Detoxify, and Reset Metabolism.",
+          "App Program: Our app offers daily guidance, allowing you to effectively track your progress.",
+          "Support from a team of trained health coaching experts.",
+          "Exercise is not a prerequisite for success.",
+          "Nutrition Without Hunger: This diet plan prevents any feelings of hunger.",
+          "Clients love our Real Food Diet & Recipe Plans - no need to count calories! Enjoy natural, wholesome eating without HCG or drugs."
+        ],
+        "buttonText": "Book Free Consultation",
+        "buttonLink": "https://www.vagaro.com/cl/ySJYQuv7IdLMZafA3~Amf7-xPQ2NOw3VoJzoQbHMJwU="
+      }
+    }
+  },
+  "memberships": {
+    "hero": {
+      "title": "Membership Programs for Weight Management",
+      "text": "Discover a world of exclusive benefits and reach your health goals by choosing from our diverse range of membership options. Whether you're looking for personalized training or access to premium facilities, our memberships are designed to cater to your unique needs and aspirations."
+    },
+    "plans": {
+      "glps": {
+        "title": "The GLP-1 Plan",
+        "text": "<p>Embark on a transformative journey toward a healthier you, ridding your body of unwanted toxins and fat. Our holistic program is tailored for your triumph, ensuring an optimized journey that reduces barriers and avoids stagnation.</p><p><strong>Benefits:</strong><ul><li>Free monthly consultations and coaching available for weight loss.</li><li>Indulge in a 15-minute session once a week in a FAR Infrared + Chromotherapy Sitting Sauna for a rejuvenating experience.</li><li>Get tailored body composition insights four times monthly.</li><li>Receive four B12 add-ons monthly with every injection, and relish a 10% discount on spa services, products, and the Glucoferrin Supplement.</li></ul></p>",
+        "button": "$299 Monthly"
+      },
+      "premium": {
+        "title": "Discover the Benefits of the Premium Plan",
+        "text": "<p>The Premium Plan offers a holistic approach to weight loss, tailored to help you reach your objectives. It combines customized meal plans, targeted exercise routines, and continuous support, guiding you toward a healthier way of living.</p><p><strong>Benefits:</strong><ul><li>Tailored meal plans and exercise routines to fit your unique needs and preferences.</li><li>Complimentary monthly consultation and coaching available for Trizepatide weight loss program.</li><li>Indulge in a 15-minute session four times a month in a FAR Infrared + Chromotherapy Sitting Sauna experience.</li><li>Get customized body composition updates four times per month.</li><li>Get tailored body composition updates delivered to you four times monthly.</li></ul></p>",
+        "button": "$499 Monthly"
+      },
+      "bella": {
+        "title": "Custom Bella Weight Loss Plan: Tailored for You",
+        "text": "<p>Our Custom Bella Weight Loss Plan is designed to meet your individual needs and help you achieve your weight loss goals. With a personalized approach, we provide you with the tools, support, and guidance you need to succeed.</p><p><ul><li>Contains: Bupropion, Phentermine, Topiramate, Naltrexone, and Slow Release Methylcobalamin Capsules</li><li>Bella Plus Contains: Bupropion, Caffeine, Metformin, Oxytocin, Topiramate, Naltreone, Methylcobalmin Capsules</li><li>Bella Plus Defact includes the following active ingredients: Bupropion, Metformin, Oxytocin, Topiramate, Naltrexone, and Methylcobalamin in capsule form.</li><li>Lip Burn Capsules feature an optimized blend of active ingredients, including Caffeine, Phentermine, Naltrexone, and Methylcobalamin, in a slow-release formulation.</li></ul></p>",
+        "button": "$349 Monthly"
+      },
+      "phentermine": {
+        "title": "Exploring the Phentermine Plan for Weight Management",
+        "text": "<p>Discover the benefits of our Phentermine Plan, a comprehensive weight management program designed to help you achieve your goals. This plan includes personalized guidance, nutritional support, and ongoing monitoring to ensure your success.</p><p><ul><li>Appetite Control: Phentermine helps manage hunger and reduce appetite, making it easier to stick to a low-calorie diet.</li><li>Increased Energy Levels: Phentermine can boost your energy, enhancing motivation and dedication to your workout routine.</li><li>Weight Loss Effectiveness: Clinical studies have shown that phentermine can greatly assist in weight reduction. Users typically shed around 3% of their initial body weight in the initial three months, and achieve a 5-7% loss by the six-month mark.</li></ul></p>",
+        "button": "$99 Monthly"
+      },
+      "rybelsus": {
+        "title": "Discover the Benefits of the Rybelsus Plan for Effective Weight Loss",
+        "text": "<p>The Rybelsus Plan is a comprehensive weight loss program designed to help you achieve your goals. With personalized guidance and support, you'll experience sustainable results.</p><p><ul><li>Blood Sugar Management: Rybelsus effectively regulates blood sugar levels in adults suffering from type 2 diabetes by enhancing insulin secretion and reducing glucagon release.</li><li>Weight Loss Potential: Rybelsus has demonstrated effectiveness in promoting weight loss in type 2 diabetes patients, primarily through reducing appetite and decelerating gastric emptying.</li><li>Cardiovascular Advantages: Clinical studies have demonstrated that Rybelsus significantly contributes to heart health protection for individuals with type 2 diabetes. This is particularly crucial, considering their increased risk of developing heart disease.</li><li>Easy Oral Intake: Rybelsus stands out as the sole GLP-1 receptor agonist available as a once-daily oral tablet, eliminating the need for injections.</li></ul></p>",
+        "button": "$2999 Monthly"
+      },
+      "vip": {
+        "title": "Unlock VIP Benefits with GLP-1 Membership",
+        "text": "<p>Experience the ultimate weight loss journey with our VIP Monthly Membership that includes a powerful weight loss medication. Enjoy exclusive perks, personalized support, and achieve your weight loss goals faster.</p><p><ul><li>Receive a weekly weight loss session (total of 4 sessions monthly) including a complimentary consultation and coaching.</li><li>GLP-1 Basic Monthly Membership: Receive 1 pre-filled injection per week (total of 4 per month) for your prescribed dose, ranging from 0.25mg to 2.5mg. Enjoy a flat monthly fee without any additional charges as your dosage increases.</li><li>1 Session Per Week (Total of 4 Sessions) - Hydration & Weight Loss Flush IV Therapy</li><li>Twice weekly, engage in a comprehensive wellness session that includes an 8-session package of Full Spectrum Infrared Bed therapy, complemented by Chromotherapy and Magnet Therapy, each lasting 25 minutes.</li><li>1 Ionic Foot Detox Session per Month (50 Minutes) for One Person</li><li>myGrace Customized Fitness Plan and Tracker App, plus a complimentary bottle of Glucoferrin, along with 10% off Glucoferrin Supplement and 10% discount on spa services.</li><li>Each injection includes a quantity of 4 personalized 3DFit Body Composition Data and 4 B12 Add-Ons, plus an additional 4 Glycine Muscle Preservation Add-Ons for enhanced benefits.</li></ul></p>",
+        "button": "$945+ Monthly"
+      }
+    }
+  },
+  "weightLoss": {
+    "hero": {
+      "title": "Prescription and Non-Prescription Weight Management",
+      "text": "We use a unique approach that merges personalized data with healing and therapeutic services, designed to assist your body in eliminating the need for excess fat through a cellular detox process. This method not only helps in shedding unwanted fat but also ensures that your body becomes less inclined to accumulate it again in the future. By focusing on the root cause of fat accumulation, our program aims to provide a long-term solution to weight management, ensuring a healthier and more balanced body."
+    },
+    "glp1": {
+      "title": "Injectable Weight Loss Solutions Featuring GLP-1 and Ozempic for Prescription-Based Weight Management",
+      "text": "<p>Our weight loss programs offer personalized strategies, incorporating the latest methodologies and professional advice to ensure you reach your goals. We provide both natural solutions and advanced prescription medication options.</p><p>We cater to your needs, wherever you are—be it your office, your home, or through virtual telehealth and mail delivery services.</p>",
+      "button": "Telehealth Physician Visit"
+    },
+    "newWave": {
+      "subtitle": "Natural Weight Loss Alternative",
+      "title": "Embrace Natural Weight Loss with NewWave for a Healthier You",
+      "text": "<p>The New Wave Weight Loss Supplement System marks a groundbreaking leap in weight management technology. It transcends fleeting fads, presenting a scientifically backed approach designed to help individuals achieve their weight loss goals efficiently and with lasting results.</p><ul><li>6 Natural Supplements: Boost Fat Burning, Balance Hormones, Detoxify, and Reset Metabolism.</li><li>Nutrition Without Hunger: This diet plan prevents any feelings of hunger.</li><li>Exercise is not a prerequisite for success.</li></ul>",
+      "button": "Contact us about NewWave"
+    },
+    "myGrace": {
+      "title": "In House Mobile Services",
+      "text": "At Grace Haven Medical, we've developed an innovative app designed to keep you inspired on your fitness journey, offering extensive fitness and diet plans. Maintain your motivation, monitor your progress, and enjoy seamless integration with Apple Health and Google Fit!",
+      "button": "App Store",
+      "button2": "Play Store"
+    },
+    "mobile": {
+      "title": "Explore Our Mobile Health Care Solutions",
+      "text": "Living in the Tampa area comes with its perks, especially when you choose Grace Haven Medical! Our standout services include telehealth weight loss prescriptions and injections. Additionally, we provide IV therapy, vitamin injections, and lab testing—all accessible from the comfort of your home."
+    },
+    "healing": {
+      "title": "Healing Before Transforming: Our Ultimate Goal",
+      "text": "To enhance relaxation and support your weight loss goals, we provide cutting-edge facilities, including Full Spectrum Infrared sauna and a comprehensive therapy system that combines FAR, Near, & MID Spectrum Infrared, Magnet Therapy, and Chromotherapy. These advanced technologies synergistically detoxify your body, boost metabolism, and foster overall health and well-being."
+    },
+    "gallery": {
+      "title": "Achieve Your Weight Loss Goals with myGrace App",
+      "text": "At Grace Haven Medical, we offer a range of weight loss programs tailored to your needs. Whether you're looking for a prescription-based approach or a natural solution, our programs are designed to help you reach your goals.",
+      "items": [
+        {
+          "header": "Weight Loss Prescriptions",
+          "body": "Our prescription weight loss programs are overseen by experienced medical professionals and utilize medications to support your weight loss journey.",
+          "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-1_tb3j5x.png"
+        },
+        {
+          "header": "Natural Weight Loss Programs",
+          "body": "If you prefer a natural approach, our weight loss programs incorporate personalized diet plans, fitness routines, and holistic therapies to help you achieve sustainable results.",
+          "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-2_ioyozm.png"
+        },
+        {
+          "header": "Your Enhanced Daily Fitness and Monitoring Guide",
+          "body": "Take your weight loss journey to the next level with the myGrace App. This comprehensive fitness and diet plan app provides personalized guidance, tracking, and support to keep you motivated.",
+          "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-3_bxuxxq.png"
+        },
+        {
+          "header": "Your Daily Meal Plan & Recipes",
+          "body": "Take your weight loss journey to the next level with the myGrace App. This comprehensive fitness and diet plan app provides personalized guidance, tracking, and support to keep you motivated.",
+          "imageURI": "dr85cqwlh/image/upload/v1725812984/weight-loss-gallery-4_uciehv.png"
+        }
+      ]
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to commonly asked questions about our Weight Loss Programs.",
+      "questions": [
+        {
+          "header": "What are the programs?",
+          "body": "Our weight loss programs include personalized plans tailored to your specific needs. We offer both prescription weight loss programs and natural weight loss programs, depending on your preferences and goals. Our team of experts will work closely with you to develop a program that suits your lifestyle and helps you achieve your desired results."
+        },
+        {
+          "header": "Is phentermine effective in promoting weight loss?",
+          "body": "Indeed, Phentermine has received FDA approval as a weight loss aid, indicating it has undergone rigorous clinical trials to prove its safety and efficacy for weight reduction. Its effectiveness is significantly enhanced when paired with consistent exercise and a reduced-calorie diet."
+        },
+        {
+          "header": "How much weight will you lose while taking phentermine?",
+          "body": "<p>The amount of weight loss you experience with phentermine significantly hinges on two key factors: the amount of excess weight you carry and your ability to modify your eating and exercise patterns during its use.<br><br>Phentermine activates the sympathetic nervous system, known as a \"sympathomimetic\" or stimulant medication, enhancing bodily functions. By reducing appetite, it aids in calorie intake reduction, creating an energy deficit for weight loss.</p>"
+        }
+      ]
+    }
+  },
+  "ivTherapy": {
+    "hero": {
+      "title": "Enhance Your Well-being through IV Therapy",
+      "text": "Discover the incredible rejuvenating benefits of IV Therapy, a cutting-edge treatment designed to promote enhanced health and wellness. Through the power of intravenous delivery, experience a revitalizing boost that can help you achieve optimal well-being. Embrace the potential for a healthier, more vibrant life with IV Therapy.",
+      "button": "Free consultation"
+    },
+    "gallery": {
+      "title": "IV Products",
+      "items": [
+        {
+          "header": "Hydration & Weight Loss Flush",
+          "body": "Incorporate IV Therapy into your regimen to enhance hydration throughout your weight loss journey. Utilize a simple fluid bag to not only maintain optimal hydration levels but also assist your body in shedding unwanted fat more effectively.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963238/iv-therapy-gallery-1_na0kjq.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/CA-hxlx8dduQpsGQzYRXtLJOiDgLQxivYekTX0NFII4="
+        },
+        {
+          "header": "Weight Loss Metabolism Booster",
+          "body": "These infusions are designed to boost overall body metabolism, restore energy levels, burn off body fat, and improve body performance.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963240/iv-therapy-gallery-2_itpl8m.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/mRuAFD47kh8eWUeBv9ocKKOL6Cln2tF7M19knKoB6O8="
+        },
+        {
+          "header": "Cellular Detox Booster - Glutathione",
+          "body": "Detoxifies the body, strengthens immunity, enhances skin health, combats cellular damage, and potentially slows aging, contributing to overall well-being.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963235/iv-therapy-gallery-3_i5tyjt.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/6gk2PvVHDHstNa1h--VX1xM49vRe03kmOm-Ma57ahDo="
+        },
+        {
+          "header": "Skin Booster",
+          "body": "Elevate your appearance by giving your skin a refreshing boost! Enhance your natural beauty with a simple yet effective skincare update.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963242/iv-therapy-gallery-4_d68dxn.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/74TQNAvwpeBQSsp4SD3c2DAMGFnJNNH3~SUn~yCldcE="
+        },
+        {
+          "header": "Stress Relief Booster",
+          "body": "Magnesium: Regulates neurotransmitters and fosters calming and relaxation. Lysine: Mitigates anxiety and supports serotonin production levels. Glycine: Promotes sleep and helps regulate the nervous system. Methyl B12: Boosts energy and fosters emotional well-being balance.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963235/iv-therapy-gallery-5_fmhmmy.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/GQXU~hijuC1-71yVrAQ~KunrT1HLjBdmpoY59huBCtY="
+        },
+        {
+          "header": "Immune Booster",
+          "body": "These IV bags contain ingredients that have been shown to help the immune system. These infusions are designed to improve the time it takes for healing to occur, reduce inflammation and duration of illnesses, and guard against infection.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963236/iv-therapy-gallery-6_c96mjp.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/mRuAFD47kh8eWUeBv9ocKKOL6Cln2tF7M19knKoB6O8="
+        },
+        {
+          "header": "Recovery Booster",
+          "body": "These infusions are mainly for athletes or those who perform frequent high-intensity exercises. The ingredients in these bags have been shown to reduce tissue inflammation, shorten the recovery time after the exercise, replenish essential nutrients, and improve the athletes' overall performance.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963242/iv-therapy-gallery-7_zayel9.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/PRykB9GIm2Cw8SXQ3ALGBGXtj49tb4DbrBlFPbciqPI="
+        },
+        {
+          "header": "Pain Relief",
+          "body": "Toradol: An effective NSAID that significantly alleviates severe pain. Magnesium: Helps in reducing nerve pain and promotes muscle relaxation. Riboflavin: Offers relief from migraines and decreases the occurrence of headaches. Alpha Lipoic Acid: Counteracts free radicals and diminishes nerve pain.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963244/iv-therapy-gallery-8_tkoam3.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/o~tNx8xRz29rUawfd2-FR6eTde489GgzRilYYqsjZTA="
+        },
+        {
+          "header": "Myers Cocktail",
+          "body": "Dr. Myers pioneered one of the earliest IV Vitamin therapies, the Myers' Cocktail, which includes magnesium, calcium, vitamin C, and B-complex vitamins, and has since led to the widespread adoption of IV Vitamin therapy and the development of various other combinations.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963239/iv-therapy-gallery-9_dr0vww.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/3flZrNdXnadB4dv2f4TNEJ3sXbVbhtbJZnX01bqPvlA="
+        },
+        {
+          "header": "Hangover",
+          "body": "Our hangover drip rehydrates your body and replenishes essential nutrients and electrolytes, alleviating common symptoms like headache, nausea, dehydration, fatigue, irritability, and anxiety. This treatment includes IV fluids, B complex, B12, Glutathione, anti-nausea, and anti-inflammatory components.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963248/iv-therapy-gallery-10_inltci.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/cuh4I-ONpEzr2zNMxNYCXYEOPRtp3yklfEHAaI1FdXs="
+        },
+        {
+          "header": "B-Lean",
+          "body": "B-Lean IV Therapy is crafted to aid in fat burning and metabolism boosting. The B-Lean IV kit features six treatments of high-quality compounds, leveraging the benefits of B vitamins to enhance energy levels and support a healthy metabolism.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963245/iv-therapy-gallery-11_xcsahd.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/hA8jirQ5thHaZCC3jNhWDIo-KmwhTiD0LKOwe89RNLQ="
+        },
+        {
+          "header": "Inner Beauty",
+          "body": "Inner Beauty IV Therapy is crafted to enhance your radiance and natural glow. This kit includes six treatments featuring premium-quality compounds that are believed to strengthen hair, skin, and nails, reduce wrinkles, and hydrate your skin from within.",
+          "imageURI": "dr85cqwlh/image/upload/v1725963247/iv-therapy-gallery-12_odsqfr.png",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/3M~qDva3UHrIW1RePtIt0S8k-AW49ILblsEgKabyku0="
+        },
+        {
+          "header": "Anti-Aging Regenerative Therapy",
+          "body": "Inner Beauty IV Therapy is crafted to enhance your radiance and natural glow. This kit includes six treatments featuring premium-quality compounds that are believed to strengthen hair, skin, and nails, reduce wrinkles, and hydrate your skin from within.",
+          "imageURI": "dr85cqwlh/image/upload/v1730406926/antiaging-iv_taz1lu.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/3M~qDva3UHrIW1RePtIt0S8k-AW49ILblsEgKabyku0="
+        },
+        {
+          "header": "Hydration",
+          "body": "Inner Beauty IV Therapy is crafted to enhance your radiance and natural glow. This kit includes six treatments featuring premium-quality compounds that are believed to strengthen hair, skin, and nails, reduce wrinkles, and hydrate your skin from within.",
+          "imageURI": "dr85cqwlh/image/upload/v1730406915/hydration-iv_fuhwow.jpg",
+          "button": "Shop now",
+          "buttonUrl": "https://www.vagaro.com/cl/3M~qDva3UHrIW1RePtIt0S8k-AW49ILblsEgKabyku0="
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Experience the Benefits of IV Therapy at Grace Haven Medical",
+      "text": "At Grace Haven Medical, our IV Therapy process is designed to provide you with the highest level of care and support. From the initial consultation to the aftercare, we ensure a seamless experience.",
+      "items": [
+        {
+          "header": "In Office",
+          "body": "Visit Grace Haven Medical in Tampa for a comprehensive range of IV treatments. Our offerings include Immune Boosters, Recovery Boosters, as well as specialized IV drips for Weight Loss and Detox.",
+          "imageURI": "dr85cqwlh/image/upload/v1726042946/iv-therapy-benefits-1_tuucl4.png"
+        },
+        {
+          "header": "At Home",
+          "body": "At Grace Haven Medical, we specialize in Cellular Detox and Weight Loss, offering personalized IV treatments right in the comfort of your home. Our registered nurses ensure a relaxing experience tailored to your needs.",
+          "imageURI": "dr85cqwlh/image/upload/v1726042947/iv-therapy-benefits-2_fotgof.png"
+        },
+        {
+          "header": "Your Couch",
+          "body": "Experience relaxation right from your couch with our  IV solutions. Indulge in your favorite game or TV show while our professional nurses take care of you.",
+          "imageURI": "dr85cqwlh/image/upload/v1726042947/iv-therapy-benefits-2_fotgof.png"
+        }
+      ]
+    },
+    "faq": {
+      "header": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our IV Therapy services.",
+      "button": "Contact Us",
+      "buttonUrl": "/contact-us",
+      "questions": [
+        {
+          "header": "What is IV Therapy?",
+          "body": "IV Therapy is a medical treatment that delivers fluids, vitamins, and minerals directly into the bloodstream through an intravenous line. It can help boost hydration, improve nutrient absorption, and support overall health and wellness."
+        },
+        {
+          "header": "What is included in a \"Myers Cocktail?\"",
+          "body": "One of the earliest types of IV Vitamin therapy developed was by the late Dr. Myers; he came up with the Myers' Cocktail comprising magnesium, calcium, vitamin C, and other B-complex vitamins. As a matter of fact, the Myers' Cocktail played a major role in popularization and generalized adoption of IV Vitamin therapy by individuals all over. Since the Myer's Cocktail's original development, many other combinations of IV Vitamin therapy have been developed. The Myers' cocktail is a formula for IV vitamin therapy that contains: B vitamins, including B12, B6, and dexpanthenol Vitamin C Magnesium Calcium Zinc Glutathione Saline solution Vitamin B complex – Several vitamins make up the B complex group of vitamins. Some of these vitamins are Vitamin B1 (Thiamine), Vitamin B2 (Riboflavin), Vitamin B3 (Niacinamide), Vitamin B5 (Dexpanthenol), and Pyridoxine (Vitamin B6). These vitamins play essential functions in the processes that place in the human body. Vitamin B12 – This is also known as cyanocobalamin. It serves many purposes in the human body; however, its primary function is in the production of red blood cells. A deficiency of this vitamin may result in a condition known as macrocytic megaloblastic anemia. Vitamin C – Studies have been performed that indicate several of the benefits of intravenous vitamin C. In the critically ill, vitamin C administered intravenously may help in the management of sepsis; it may also be of use in managing certain kinds of cancer. For individuals in good health, intravenous vitamins may serve to boost immunity and increase energy levels. Magnesium- Magnesium IV infusion can benefit your health in many ways. Some of the benefits include Enhanced relaxation, Less fatigue, Reduced muscle pain, Better sleep, Tighter blood sugar control, Improved bone health Improved exercise performance, & Enhanced mood. Calcium – Calcium is necessary for the development of strong and healthy bones. People who are lacking in calcium in their body may end up with a condition known as osteoporosis. Zinc - Zinc IV has a variety of benefits for the body, including Boosting Immunity, Improves Wound Healing as well as plays a role in the production of collagen and the repair of tissues, reduce acne, eczema, and other skin conditions. Zinc Helps with Digestive Issues & alleviate digestive issues such as diarrhea, constipation, and indigestion. Zinc reduces Inflammation, and aids arthritis and other inflammatory diseases. Zinc is also known to enhance cognitive function with improve memory, attention, and focus, and may even be beneficial for conditions such as Alzheimer’s disease. Glutathione – This is an antioxidant that facilitates many key processes in the body. Ingredients 0.9 Normal Saline (NS) – 1L (Vitamin C) Ascorbic Acid 500mg/ml – 2 ml • Magnesium Chloride- 10.5 mg/ml • Calcium Gluconate- 1.3 mg/ml • Thiamine (B-Complex) - 2.6 mg/ml • Riboflavin(B-Complex)- 0.05 mg/ml • Pyridoxine (B-Complex)- 2.7 mg/ml • Niacinamide (B-Complex) 2.6 mg/ml • Dexpanthenol (B-Complex) 6.6 mg/ml • Cyanocobalamin (B12)- 0.03 mg/ml"
+        },
+        {
+          "header": "Who can benefit from IV Therapy?",
+          "body": "IV Therapy can benefit a wide range of individuals, including those seeking to enhance their immune system, improve athletic performance, recover from illness or hangover, or simply boost their overall well-being."
+        },
+        {
+          "header": "Is IV Therapy Safe?",
+          "body": "Yes, IV Therapy is generally safe when administered by trained professionals. Our team of medical experts ensures that all procedures are performed with the utmost care and attention to safety."
+        },
+        {
+          "header": "How long does an IV Therapy session take?",
+          "body": "The duration of an IV Therapy session can vary depending on the specific treatment and individual needs. On average, a session can take anywhere from 30 minutes to an hour."
+        },
+        {
+          "header": "Are there any side effects of IV Therapy?",
+          "body": "While side effects are rare, some individuals may experience minor discomfort or bruising at the injection site. Our experienced staff takes every precaution to minimize any potential risks."
+        }
+      ]
+    }
+  },
+  "weightLossInjections": {
+    "hero": {
+      "title": "Powerful Weight Loss Injections",
+      "text": "Discover our extensive range of weight loss injections, carefully formulated to support your journey towards a healthier and fitter you. Our offerings include the highly effective Weight Loss Super MIC, which boosts metabolism and aids in fat loss, along with B12 injections to enhance your energy levels and support overall wellness. We also provide Biotin injections, known for their benefits in improving hair, skin, and nail health, and Glutathione injections, which are powerful antioxidants that promote detoxification and immune support. Explore these and more, all designed to help you achieve and maintain your weight loss goals with optimal health benefits.",
+      "button": "Book Now"
+    },
+    "types": {
+      "title": "Different Types of Weight Loss Injections",
+      "text": "At Grace Haven Medical, we provide powerful weight loss injections to help you reach your goals. Our offerings include vitamin, lipotropic, and hormone-based injections. These potent solutions give your weight loss journey the boost it needs to achieve faster and more effective results.",
+      "button": "Free Consultation"
+    },
+    "injectionProducts": {
+      "title": "Weight Loss Injection Products",
+      "text": "Discover our range of over 19 powerful weight loss injection products, including popular options like Glutathione, Magnesium Chloride, and L-Lysine. Transform your journey with our complete catalog of effective solutions below!",
+      "items": [
+        {
+          "header": "Weight Loss Super MIC",
+          "body": "Weight Loss Super MIC, a blend of Methionine, Inositol, Choline, B12, L-Carnitine, Thiamine, and Pyridoxine, offers superior support for metabolism and energy production, delivering exceptional weight loss results.",
+          "price": "$35",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/-EGoDoOwJj9DVQ-td-BSq-~2CSlDYK-0IIoS38XJhLc=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-1_h6yczh.jpg"
+        },
+        {
+          "header": "Alpha Lipoic Acid",
+          "body": "Alpha lipoic acid (ALA) is a potent antioxidant used to treat conditions like diabetes, diabetic neuropathy, dementia, glaucoma, amanita mushroom poisoning, and alcoholic liver disease, with studies supporting its effectiveness for diabetes and diabetic neuropathy.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/-EGoDoOwJj9DVQ-td-BSq-~2CSlDYK-0IIoS38XJhLc=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-2_vqiuni.png"
+        },
+        {
+          "header": "B-12",
+          "body": "B-12 is a vitamin supplement that plays a crucial role in energy metabolism and the production of red blood cells. It may help combat fatigue and boost overall energy levels.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/~ovXiBU9OKfLinydtQ6N-rPuPzWq0xh0E77231-8Vzo=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-3_yv13f6.jpg"
+        },
+        {
+          "header": "Bi-Amino Blend",
+          "body": "The Bi-Amino Blend combines Arginine HCI and Citrulline to provide a powerful and balanced amino acid formula. This blend supports circulation, energy production, and muscle development for improved performance.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/9qGxRJH8oVtq47KC0aBBYRPKWyTJwFu1wWsBx5oX2oQ=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-4_dkfhfo.png"
+        },
+        {
+          "header": "Biotin",
+          "body": "Transform your appearance and boost your well-being with our Biotin injections, aiding in weight loss, enhancing natural beauty, and strengthening hair and nails.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/BOUmcy0VM0GV9SEkkzlJ~YPKsFstFc8hVJ1NUB71RAU=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-5_fzzi9q.jpg"
+        },
+        {
+          "header": "Dexpanthenol",
+          "body": "Dexpanthenol (B5) enhances metabolism and digestion for optimal health.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/ZDoFa85nxCxfor2R8MdNBwMfjNVglbWVMqhAo4AW-5w=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-6_ky3qak.jpg"
+        },
+        {
+          "header": "Glutathione",
+          "body": "Glutathione is a powerful antioxidant that enhances mitochondrial function, boosts the immune system and metabolism, improves insulin resistance, and combats autoimmune diseases.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/GLD7a62jX2hj70JKynt8vDAMOslhOu24m7bPrqiP-pM=",
+          "imageURI": "dr85cqwlh/image/upload/v1726750017/weight-loss-injections-gallery-7_enouak.jpg"
+        },
+        {
+          "header": "L-Carnitine",
+          "body": "L-Carnitine aids in converting fat to energy and may support post-heart attack recovery.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-8_yufweo.jpg"
+        },
+        {
+          "header": "L-Lysine",
+          "body": "L-Lysine supports muscle, skin, and cell growth and repair, strengthening the body.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-9_ynw3ot.jpg"
+        },
+        {
+          "header": "L-Proline",
+          "body": "L-Proline offers benefits like supporting metabolism, providing antioxidant protection, aiding wound healing, and enhancing immune responses.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-10_tmevjl.jpg"
+        },
+        {
+          "header": "L-Taurine",
+          "body": "L-Taurine regulates water and mineral levels in blood, improves insomnia and mental performance, combats fatigue, enhances muscle function, and helps control high blood pressure and cholesterol.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-11_qmmk3g.jpg"
+        },
+        {
+          "header": "L-Glutamine",
+          "body": "L-Glutamine supports muscle growth and gut health by buffering acid.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-12_r3vv0h.png"
+        },
+        {
+          "header": "L-Arginine",
+          "body": "L-Arginine is an amino acid that supports muscle growth, fat reduction, insulin release, blood flow, athletic performance, and blood pressure regulation for improved health.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750018/weight-loss-injections-gallery-13_xzgadj.jpg"
+        },
+        {
+          "header": "Magnesium Chloride",
+          "body": "This essential mineral enhances bone density, regulates blood pressure, promotes relaxation, and improves sleep quality.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750019/weight-loss-injections-gallery-14_oczois.jpg"
+        },
+        {
+          "header": "NAC",
+          "body": "N-Acetyl-Cysteine (with preservative) is a potent formulation that restores Glutathione levels, supporting respiratory health and treating various conditions.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750019/weight-loss-injections-gallery-15_n7nj4t.jpg"
+        },
+        {
+          "header": "Pyrodoxine (B6)",
+          "body": "Pyridoxine (Vitamin B6) supports a healthy immune system, reduces inflammation, and boosts brain function.",
+          "price": "$25",
+          "button": "Book Now",
+          "buttonLink": "#",
+          "imageURI": "dr85cqwlh/image/upload/v1726750019/weight-loss-injections-gallery-16_ipoyb0.jpg"
+        }
+      ]
+    },
+    "toradol": {
+      "title": "Toradol",
+      "text": "Toradol is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve short-term moderate to severe pain. It works by reducing inflammation and blocking certain pain signals in the body.",
+      "button": "Book Now"
+    },
+    "vitaminD3": {
+      "title": "Vitamin D3 Deficiency",
+      "text": "Promotes robust bones, strong muscles, and a resilient nervous and immune system. Not only does it efficiently boost body fat loss, but it also simultaneously elevates energy levels, empowering you to feel more vibrant and active every day. Transform your health and vitality with these multifaceted benefits.",
+      "button": "Book Now"
+    },
+    "benefits": {
+      "title": "Discover the Benefits of Our Weight Loss Injections",
+      "text": "Our weight loss injections contain a combination of powerful ingredients that can help boost metabolism, suppress appetite, and increase energy levels. These injections are designed to support your weight loss journey and enhance the effectiveness of our programs.",
+      "items": [
+        {
+          "header": "Key Ingredients and Their Effects",
+          "body": "Our weight loss injections feature a range of carefully selected ingredients that work synergistically to promote fat burning, curb cravings, and improve overall well-being.",
+          "imageURI": "dr85cqwlh/image/upload/v1726840764/weight-loss-injection-benefits-1_abkitc.png"
+        },
+        {
+          "header": "Boost Metabolism and Burn Fat",
+          "body": "One of the key ingredients in our weight loss injections is L-carnitine, which helps transport fatty acids into the mitochondria to be burned for energy, leading to increased fat metabolism.",
+          "imageURI": "dr85cqwlh/image/upload/v1726840763/weight-loss-injection-benefits-2_whe08g.jpg"
+        },
+        {
+          "header": "Suppress Appetite and Control Cravings",
+          "body": "Another important ingredient is B12, which can help regulate appetite and reduce cravings, making it easier to stick to a healthy eating plan.",
+          "imageURI": "dr85cqwlh/image/upload/v1726840764/weight-loss-injection-benefits-3_sc528i.jpg"
+        }
+      ]
+    },
+    "vitaminC": {
+      "title": "Vitamin C Ascorbic Acid",
+      "text": "Enhance your overall health with Ascorbic Acid, the powerful antioxidant supplement that helps boost your immune system and improve iron absorption, leaving you with a stronger and more resilient body.",
+      "button": "Book Now"
+    },
+    "nadPlus": {
+      "subtitle": "Anti-Aging Regenerative Therapy",
+      "title": "NAD+",
+      "text": "<p>Experience the transformative power of NAD+ Injections in Week 1 as you take your first step towards a more youthful and radiant complexion with three subcutaneous injections. Embrace the rejuvenating benefits of NAD+ and combat the effects of aging, revealing a more vibrant and youthful appearance. Begin your journey towards ageless beauty today with our powerful anti-aging injections.</p><ul><li>Week 1: $550</li><li>Week 2: $750</li><li>Week 3: 950</li><li>Week 4: $1250</li></ul>",
+      "button": "Book Your First Session Now"
+    },
+    "faq": {
+      "header": "FAQ",
+      "description": "Find answers to frequently asked questions about weight loss injections, including safety, duration, and expected results.",
+      "questions": [
+        {
+          "header": "Are weight loss injections safe?",
+          "body": "Weight loss injections are generally safe when administered by qualified healthcare professionals. However, it's important to discuss any potential risks or side effects with your doctor before starting the treatment."
+        },
+        {
+          "header": "How long do weight loss injections last?",
+          "body": "The duration of weight loss injections can vary depending on the specific medication and individual response. Your healthcare provider will provide guidance on the recommended treatment duration for your specific needs."
+        },
+        {
+          "header": "What results can I expect from weight loss injections?",
+          "body": "Weight loss injections can help support your weight loss efforts by boosting metabolism, suppressing appetite, and aiding in fat burning. However, individual results may vary, and it's important to follow a comprehensive weight loss program for optimal results."
+        },
+        {
+          "header": "Can anyone get weight loss injections?",
+          "body": "Weight loss injections may not be suitable for everyone. It's important to consult with a healthcare professional to determine if you are a good candidate for this type of treatment, considering your medical history, current health condition, and weight loss goals."
+        },
+        {
+          "header": "How often should I get weight loss injections?",
+          "body": "The frequency of weight loss injections will depend on the specific medication and your healthcare provider's recommendation. It's important to follow the prescribed treatment plan and attend regular follow-up appointments for optimal results."
+        }
+      ]
+    }
+  },
+  "infraredTherapy": {
+    "hero": {
+      "title": "Infrared Therapy Solutions",
+      "text": "Discover the incredible healing potential of Full Spectrum Infrared Therapy, which includes FAR, NEAR, and MID wavelengths. Our therapy offers a comprehensive approach to wellness, harnessing the power of different infrared wavelengths to promote healing and rejuvenation for your body and mind.",
+      "button": "Book Now",
+      "button2": "Monthly Membership"
+    },
+    "healingPower": {
+      "title": "Unlock the Healing Power of Infrared Therapy",
+      "text": "Discover the cutting-edge technology behind our Full Spectrum Infrared Therapy. Harness the healing benefits of infrared light to promote relaxation, detoxification, and overall well-being.<ul><li>Relax and rejuvenate with our advanced infrared technology.</li><li>Detoxify your body and boost your immune system naturally.</li><li>Experience the deep penetrating heat for ultimate relaxation.</li></ul>",
+      "button": "Book Now"
+    },
+    "nursePractitioners": {
+      "title": "Connect with Nurse Practitioners Virtually Through Grace Haven Patient Portal",
+      "text": "The Grace Haven Portal transforms patient care by allowing users to effortlessly upload medical records and participate in Good Faith Exams conducted by certified nurse practitioners. This holistic method encompasses lab analysis and weight management programs, guaranteeing personalized and high-quality healthcare. Whether it's through face-to-face meetings or virtual consultations, We Treat promises outstanding and accessible healthcare solutions.",
+      "button": "Patient Portal",
+      "button2": "Book Now"
+    },
+    "far": {
+      "title": "FAR Infrared Therapy: Promotes detoxification, improves circulation, and boosts immune function.",
+      "items": [
+        {
+          "header": "NEAR Infrared Therapy: Reduces pain and inflammation, enhances wound healing, and rejuvenates skin.",
+          "body": "MID Infrared Therapy: Relieves muscle tension, increases metabolism, and aids in weight loss."
+        },
+        {
+          "header": "FAR Infrared Therapy: Promotes detoxification, improves circulation, and boosts immune function.",
+          "body": "NEAR Infrared Therapy: Reduces pain and inflammation, enhances wound healing, and rejuvenates skin."
+        },
+        {
+          "header": "MID Infrared Therapy: Relieves muscle tension, increases metabolism, and aids in weight loss.",
+          "body": "Learn More about the health benefits of Infrared Therapy."
+        }
+      ]
+    },
+    "myGrace": {
+      "title": "Discover myGrace Fitness App Today",
+      "text": "Understanding that sustainable weight loss requires a comprehensive approach, we provide fitness and diet plans along with personalized trackers to help you stay committed to your new habits. Our team of certified professionals is readily available to guide and support you throughout your entire journey.",
+      "button": "Download - App Store",
+      "button2": "Download - Play Store"
+    },
+    "mid": {
+      "title": "Discover the Restorative Effects of MID Infrared Therapy",
+      "text": "Discover the numerous benefits of MID Infrared Therapy, a natural and effective way to improve your overall well-being. Our state-of-the-art technology utilizes the healing properties of infrared light to promote detoxification, pain relief, relaxation, and more.",
+      "button": "Book Now"
+    },
+    "near": {
+      "title": "Unlock the Healing Power of NEAR Infrared",
+      "text": "<p>NEAR Infrared Therapy at Grace Haven Medical Cellular Detox and Weight Loss offers a range of benefits for your overall well-being. Our state-of-the-art technology harnesses the healing power of NEAR Infrared light to promote detoxification, pain relief, and improved circulation.</p><ul><li>Detoxify your body and eliminate harmful toxins</li><li>Relieve pain and reduce inflammation naturally</li><li>Enhance blood circulation and promote healing</li></ul>",
+      "button": "Free Consultation"
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Learn more about Infrared Therapy and its benefits for your health and well-being.",
+      "questions": [
+        {
+          "header": "What is Infrared Therapy?",
+          "body": "Infrared Therapy uses infrared light to penetrate the skin and heat the body directly, providing numerous health benefits. It can help with pain relief, detoxification, improved circulation, and relaxation."
+        },
+        {
+          "header": "Is Infrared Therapy safe?",
+          "body": "Yes, Infrared Therapy is safe when used properly. The heat generated by the therapy is gentle and does not cause any harm to the body. However, it is important to follow the guidelines and recommendations provided by our trained professionals."
+        },
+        {
+          "header": "How does it work?",
+          "body": "Infrared Therapy works by emitting infrared light that is absorbed by the body's tissues. This light energy is converted into heat, which helps to increase blood flow, relax muscles, and promote healing."
+        },
+        {
+          "header": "What are the benefits?",
+          "body": "The benefits of Infrared Therapy include pain relief, improved circulation, detoxification, relaxation, and enhanced overall well-being. It can also help with weight loss and skin rejuvenation."
+        },
+        {
+          "header": "Is it suitable for everyone?",
+          "body": "Infrared Therapy is generally safe for most people. However, it is always recommended to consult with our medical professionals before starting any new therapy, especially if you have any underlying health conditions or concerns."
+        }
+      ]
+    }
+  },
+  "magnetTherapy": {
+    "hero": {
+      "title": "Explore the Benefits of Magnet Therapy",
+      "text": "Discover the incredible benefits of Magnet Therapy and how it can transform your overall health and wellness. By incorporating this natural healing method into your daily routine, you can enhance your well-being and experience the positive effects of magnetic therapy. Explore the potential of magnet therapy and unlock a new level of vitality and balance in your life.",
+      "button": "Free Consultation"
+    },
+    "healingBenefits": {
+      "title": "Discover the Science Behind Magnet Therapy and Its Healing Benefits",
+      "text": "Magnet therapy is based on the principle that magnetic fields can stimulate the body's natural healing processes. By applying magnets to specific areas of the body, it is believed to promote pain relief, reduce inflammation, and improve overall well-being.<div class='row'><div class='col-sm-6'><p><strong>How It Works</strong></p><p>Magnet therapy works by creating a magnetic field that interacts with the body's own magnetic field.</p></div><div class='col-sm-6'><p><strong>Benefits</strong></p><p>Experience pain relief, reduced inflammation, and improved well-being with magnet therapy.</p></div></div>"
+    },
+    "patientBenefits": {
+      "title": "Benefits of Magnet Therapy for Patients",
+      "text": "Magnet therapy has been shown to provide various benefits for patients. It can help reduce pain, improve blood circulation, and promote relaxation and overall well-being.",
+      "button": "Book Now"
+    },
+    "app": {
+      "title": "Discover myGrace Fitness App Today",
+      "text": "Understanding that sustainable weight loss requires a comprehensive approach, we provide fitness and diet plans along with personalized trackers to help you stay committed to your new habits. Our team of certified professionals is readily available to guide and support you throughout your entire journey.",
+      "button": "Download - App Store",
+      "button2": "Download - Play Store"
+    },
+    "therapeutic": {
+      "title": "Discover the Therapeutic Benefits of Magnetic Therapy",
+      "text": "At Grace Haven Medical, our Magnet Therapy sessions are designed to promote relaxation and stimulate the body's natural healing processes. Through the use of magnetic fields, this non-invasive therapy can help alleviate pain, reduce inflammation, and improve overall well-being.",
+      "items": [
+        {
+          "header": "Personalized Treatment Tailored to Your Needs",
+          "body": "During a Magnet Therapy session, our experienced practitioners will assess your specific health concerns and create a customized treatment plan to address your unique needs."
+        },
+        {
+          "header": "Relax, Rejuvenate, and Restore Balance",
+          "body": "Lie back and relax as the gentle magnetic fields work to restore balance to your body, promoting a sense of calm and well-being."
+        },
+        {
+          "header": "Experience the Benefits of Magnet Therapy Today",
+          "body": "Discover the healing power of Magnet Therapy and start your journey towards improved health and vitality."
+        }
+      ]
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Magnet Therapy is a non-invasive treatment that uses magnets to improve blood circulation and reduce pain.",
+      "questions": [
+        {
+          "header": "How does it work?",
+          "body": "Magnet Therapy works by applying magnetic fields to the body, which can stimulate the production of natural pain-relieving substances and improve blood flow. This can help reduce inflammation, relieve pain, and promote healing."
+        },
+        {
+          "header": "Is it safe?",
+          "body": "Yes, Magnet Therapy is generally considered safe when used as directed. However, it may not be suitable for everyone, especially those with certain medical conditions or implanted medical devices. It's important to consult with a healthcare professional before starting Magnet Therapy."
+        },
+        {
+          "header": "What are the benefits?",
+          "body": "The benefits of Magnet Therapy may include pain relief, improved blood circulation, reduced inflammation, and enhanced overall well-being. It can be used to complement other treatments or as a standalone therapy."
+        },
+        {
+          "header": "How long does it take to see results?",
+          "body": "The time it takes to see results from Magnet Therapy can vary depending on the individual and the specific condition being treated. Some people may experience immediate relief, while others may require multiple sessions to notice significant improvements."
+        },
+        {
+          "header": "Are there any side effects?",
+          "body": "Magnet Therapy is generally considered safe with minimal side effects. However, some individuals may experience mild discomfort, skin irritation, or allergic reactions. If you have any concerns, it's best to consult with a healthcare professional."
+        }
+      ]
+    }
+  },
+  "footDetox": {
+    "hero": {
+      "title": "Rejuvenate Your Feet",
+      "text": "Immerse yourself in the revitalizing journey of our Ionized Foot Detox service, meticulously crafted to purify and rejuvenate your body. Leveraging advanced technology, our treatment delicately extracts toxins and impurities, bestowing you with a sense of renewal and vitality. Pamper yourself with this stimulating experience, and embark on the path to a healthier, more harmonious lifestyle.",
+      "button": "Book Now"
+    },
+    "removingToxins": {
+      "title": "Discover the Power of Ionized Foot Detox for Removing Toxins",
+      "text": "<p>Ionized Foot Detox is a revolutionary treatment that uses ionization to draw out toxins from the body. By immersing your feet in a warm water bath with an ionizer, the toxins are pulled out through the pores in your feet, leaving you feeling refreshed and revitalized.</p><ul><li>Gentle and Relaxing</li><li>Detoxifies the Body</li><li>Improves Overall Well-being</li></ul>"
+    },
+    "overallWellness": {
+      "title": "Experience the Benefits of Ionized Foot Detox for Overall Wellness",
+      "text": "<p>Ionized Foot Detox is a powerful treatment that promotes detoxification and enhances overall wellness. By immersing your feet in a warm, ionized water bath, toxins are drawn out of your body, leaving you feeling refreshed and revitalized.</p><div class='row'><div class='col-sm-6'><strong>Detoxification</strong><p>Eliminate harmful toxins and impurities, promoting a healthier body and improved well-being.</p></div><div class='col-sm-6'><strong>Revitalization</strong><p>Enhance your overall wellness by reducing stress, boosting energy levels, and improving sleep quality.</p></div></div>"
+    },
+    "detoxification": {
+      "title": "Experience the Detoxification Power of Ionized Foot Baths",
+      "text": "During your Ionized Foot Detox session, you can expect a relaxing and rejuvenating experience. First, you'll be seated comfortably and your feet will be immersed in a warm foot bath infused with ionized water. As the session begins, the ionized water will help draw out toxins from your body through the pores in your feet. This gentle and non-invasive process can promote detoxification, improve circulation, and enhance overall well-being.",
+      "items": [
+        {
+          "header": "Benefits of Ionized Foot Detox",
+          "body": "Detoxification: Ionized foot baths help eliminate toxins from the body."
+        },
+        {
+          "header": "Relaxation and Stress Relief",
+          "body": "The soothing foot bath can help reduce stress and promote relaxation."
+        },
+        {
+          "header": "Improved Circulation and Energy Levels",
+          "body": "Ionized foot baths can enhance blood flow and increase energy."
+        }
+      ]
+    },
+    "featuredPlan": {
+      "info": {
+        "title": "Ionic Foot Detox | 50 Minutes",
+        "content": "<p>Ionic foot detox utilizes ionically charged water to purify the body of toxins via the feet. This practice offers numerous benefits, including heightened energy and focus, improved clarity of thought and skin condition, better sleep and immune function, decreased pain, inflammation, and stress, along with improved lymphatic drainage and organ performance. Indulge in a relaxing session that includes a 30-minute ionized cleanse, followed by a 15-minute salt soak and a soothing application of non-toxic lotion. This comprehensive approach aids in the prevention and alleviation of chronic conditions and symptoms, promoting overall well-being.</p><strong>Cleanse Your Body</strong><p>Eliminate toxins and improve your overall well-being with our ionized foot detox.</p><strong>Boost Energy Levels</strong><p>Feel more energized and focused after each session of our ionized foot detox.</p><strong>Enhance Immune System</strong><p>Strengthen your immune system and improve your body's ability to fight off illnesses.</p>"
+      },
+      "details": {
+        "programTitle": "Ionic Foot Detox",
+        "programDescription": "Affordable and Effective Detox",
+        "price": "$69",
+        "listItemText": "Includes:",
+        "listItems": [
+          "30-minute ionized cleanse",
+          "Non-toxic lotion rub",
+          "Enhanced organ function",
+          "Better sleep quality",
+          "Relief from stress",
+          "15-minute salt soak",
+          "Improved lymphatic drainage",
+          "Reduced pain and inflammation",
+          "Clearer skin complexion",
+          "Improved focus and concentration"
+        ],
+        "buttonText": "Schedule an Appointment",
+        "buttonLink": "https://www.vagaro.com//Users/BusinessWidget.aspx?enc=MMLjhIwJMcwFQhXLL7ifVN8SzlOQriDI7QmxlJ0+VpnFGJfwHF54xXtrZRRZUn5L5mfJC40MRL0lUnnmjOkSQz80uMkmnVe97oLVpdOYczpycmdHicCwR9pjVvK8Bn8D3+256MmyOmRbM8igdhe/T3FZVOeteS7RFi8e4X5JhYU4CInSCGw7p5fN9N1lJAXoD2E3Z3OuMosbQQr35cYK0cw9N8dfKrpczpssSxgk0AjzdXg9qmyqpQPRZi2q0LDgNm5mWylaTLWlC0iEb7UIs9LIsucXwcMgdm+zw/XaTfAm96ZQ/QYc4fhiffU13GzbCJeM1/FRlOCr6/HQ8wE0Uy2IZDdN72xwXIH+IJ1fXw78s3WMz+NP18cgF/eUE4e9Leysy208I3//ezkk/MPB3Ziyi427eH5GkPEDHTHDNRmdqp3i9ZBhEvC/hwNOjPBb"
+      }
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to commonly asked questions about our Ionized Foot Detox process.",
+      "questions": [
+        {
+          "header": "How does it work?",
+          "body": "Our Ionized Foot Detox process works by immersing your feet in a warm water bath while a small electrical current is passed through it. This current helps to ionize the water molecules, creating a positive and negative charge. These charges then attract and neutralize toxins in your body, which are released through the pores of your feet."
+        },
+        {
+          "header": "Is it safe?",
+          "body": "Yes, our Ionized Foot Detox process is safe. It is a non-invasive and gentle method of detoxification. However, it is not recommended for individuals with open wounds, infections, or those who are pregnant."
+        },
+        {
+          "header": "How long does it take?",
+          "body": "The duration of an Ionized Foot Detox session varies depending on the individual. On average, a session lasts for about 30 minutes. However, we recommend consulting with our experts to determine the ideal duration for your specific needs."
+        },
+        {
+          "header": "Are there any side effects?",
+          "body": "Most individuals experience no side effects from our Ionized Foot Detox process. However, some may experience mild symptoms such as fatigue, headache, or increased urination. These symptoms are temporary and are a sign that the detoxification process is working."
+        },
+        {
+          "header": "How often should I do it?",
+          "body": "The frequency of Ionized Foot Detox sessions depends on your individual health goals and needs. Some individuals may benefit from weekly sessions, while others may find monthly sessions sufficient. Our experts will guide you in determining the ideal frequency for maximum results."
+        }
+      ]
+    }
+  },
+  "labTesting": {
+    "hero": {
+      "title": "Personalized Lab Testing",
+      "text": "Explore and understand your body's unique requirements through our extensive range of Lab Testing services. Uncover valuable insights into your health and wellness with our comprehensive testing options designed to provide you with the information you need to make informed decisions about your well-being.",
+      "button": "Contact Us"
+    },
+    "heavyMetal": {
+      "title": "Identify Toxic Metals and Improve Your Health",
+      "text": "Our Heavy Metal Lab Analysis (HTMA) service plays a crucial role in identifying toxic metals in your body, providing valuable insights into their impact on your health. By understanding your heavy metal levels, we can create personalized wellness and weight loss programs to help you achieve optimal health.",
+      "button": "Book Now"
+    },
+    "gallery": {
+      "title": "Efficient Lab Testing for Wellness and Weight Loss",
+      "text": "At Grace Haven Medical, we offer a comprehensive lab testing process that helps you understand your body's needs and achieve your wellness and weight loss goals. Our expert team will guide you through the entire journey, from consultation to receiving accurate and detailed results.",
+      "items": [
+        {
+          "header": "Consultation and Sample Collection Made Easy",
+          "body": "Schedule a consultation with our experienced professionals who will discuss your health concerns and goals. We will then collect the necessary samples for analysis in our state-of-the-art laboratory.",
+          "imageURI": "dr85cqwlh/image/upload/v1727030642/lab-testing-gallery-1_idlnor.png"
+        },
+        {
+          "header": "Accurate and Detailed Lab Results",
+          "body": "Our advanced lab technology ensures precise and comprehensive analysis of your samples. You can trust us to provide you with detailed results that will help you make informed decisions about your wellness and weight loss journey.",
+          "imageURI": "dr85cqwlh/image/upload/v1727030643/lab-testing-gallery-2_wy7zer.png"
+        },
+        {
+          "header": "Custom Wellness & Weight Loss Tips",
+          "body": "Based on your lab results, our team will create a personalized plan tailored to your specific needs. We will provide you with recommendations to optimize your wellness and achieve your weight loss goals.",
+          "imageURI": "dr85cqwlh/image/upload/v1727030645/lab-testing-gallery-3_lz7cyj.jpg"
+        }
+      ]
+    },
+    "gallery2": {
+      "title": "Lab Testing",
+      "text": "Our lab testing offers a comprehensive range of tests, including those with over 100 biomarkers, ensuring detailed and precise health insights.",
+      "items": [
+        {
+          "header": "Weight Loss Basic",
+          "body": "A weight loss panel consists of blood tests that measure biomarkers related to the metabolic and hormonal factors that impact your metabolism and weight. Metabolism is the way your body processes food and drink into energy, and, like overall weight, can be impacted by a variety of internal and external factors.",
+          "price": "$70",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/rTBAWoqzummav5PfmwSC0NvFoWIJTthM5JvQc0TrO1o=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031112/lab-testing-gallery2-1_iyuzwe.png"
+        },
+        {
+          "header": "GLP-1 Panel",
+          "body": "A weight loss panel consists of blood tests that measure biomarkers related to the metabolic and hormonal factors that impact your metabolism and weight. Metabolism is the way your body processes food and drink into energy that affect weight and fat storage. This panel includes; CBC, Comprehensive Metabolic Panel, Lipid Panel, TSH, T3 Free, T4 Total, Vitamin B12, Fasting Insulin, Hemoglobin A1C.",
+          "price": "$170",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/YIObpXFJEj9QvxQ2CHJWZF~9HTl6xUySH5k-ldfemBM=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031113/lab-testing-gallery2-2_nuxxpk.png"
+        },
+        {
+          "header": "Weight Loss Complete",
+          "body": "A weight loss panel consists of blood tests that measure biomarkers related to the metabolic and hormonal factors that impact your metabolism and weight. Metabolism is the way your body processes food and drink into energy, and, like overall weight, can be impacted by a variety of internal and external factors. Includes CBC with Diff, Comprehensive Metabolic Panel, Lipid Panel, Thyroid Panel, Insulin.",
+          "price": "$140",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/eiT7R~ZGTpkg0pmVlw5rSCPlTq5~2Fd58FA-xICUSYE=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031118/lab-testing-gallery2-3_swboxm.png"
+        },
+        {
+          "header": "Food Analyzer & Allergy Test Panel",
+          "body": "Food Analyzer Panel is a state-of-the-art food sensitivity test measuring total IgG antibodies for a vast array of food sources. Food Analyzer evaluates 286 food antigens using nano-bead technology on 1mL of serum. Results assist practitioners to curate diet and lifestyle guidance for their patients to reduce and eliminate symptoms related to adverse food reactions.",
+          "price": "$399",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/eiT7R~ZGTpkg0pmVlw5rSCPlTq5~2Fd58FA-xICUSYE=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031115/lab-testing-gallery2-4_dsywdr.png"
+        },
+        {
+          "header": "Hair Loss Panel",
+          "body": "The Hair Loss Panel includes a comprehensive range of lab tests designed to boost hair regrowth and reduce hair loss. This powerful panel features tests for CBC, CMP, ferritin, dihydrotestosterone, copper serum, zinc, Vitamin D, B12, Folate, and Thyroid levels. Take control of your hair health today!",
+          "price": "$270",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/QGOS0EUZvLLh7Fwn8bi2YtcB6omgF1m2EFUncEoQDp4=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031116/lab-testing-gallery2-5_ymxrur.png"
+        },
+        {
+          "header": "Heavy Metal Panel Plus",
+          "body": "A urine heavy metal screen will reveal the toxic heavy metals in your system that could be hindering your wellness and weight loss.",
+          "price": "$329",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/wrkI~Q5PvLr8yk-myl-ZBauJF0vlAHY6-r7XFApveJs=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031119/lab-testing-gallery2-6_kcwwuw.png"
+        },
+        {
+          "header": "Cancer Screening Panels Extended",
+          "body": "Our Comprehensive Cancer Screening Panels deliver a broad array of tests to precisely identify cancer biomarkers in blood, enabling early detection and treatment. By pinpointing markers from leukemia and lymphoma, these panels provide critical insights for managing the disease at its early stages, significantly advancing cancer research. Designed for both Men and Women.",
+          "price": "$250",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/vB1esnOift9QOrbyHmfWbjxP4nm2IcTXFEVQzGKdHU0=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031121/lab-testing-gallery2-7_kptgp0.png"
+        },
+        {
+          "header": "Other Lab Testing",
+          "body": "With over 400 Lab offerings, we deliver custom data right to your fingertips. Our extensive menu includes blood, saliva, and urine tests, all performed at our state-of-the-art 25,000 square-foot facility in Jupiter, Florida. Our 24-hour blood testing guarantees the most up-to-date patient information, ensuring unmatched speed, mobility, and convenience.",
+          "price": "Starting at $25",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/3Oyu7gAMn0FfI0YT3nN5foN8eNNb0G3DMs~j1EraYpU=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031122/lab-testing-gallery2-8_plb8p7.png"
+        },
+        {
+          "header": "Traumatic Brain Lab Test",
+          "body": "The Traumatic Brain Lab Test is crucial for diagnosing and treating Traumatic Brain Injury (TBI), a condition often resulting from significant head trauma. Especially common among athletes, veterans, and car accident survivors, TBI can impact anyone. With 19 targeted panels, this comprehensive test assesses optimal intelligence and aims to manage the lifelong symptoms of TBI effectively.",
+          "price": "$799",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/wMiu7ZTKkgqv2Geszv0refrrZ9SDUf~UQn8GrDIJCfg=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031124/lab-testing-gallery2-9_xzmewz.jpg"
+        },
+        {
+          "header": "Function Health",
+          "body": "All-in-One Health Solution for Everyone. Test your entire body across 100+ biomarkers: hormones, thyroid, heart, metabolism, autoimmunity, toxins, and more. Introducing the first-ever membership that combines your health history with over 100 lab tests, delivering actionable insights from top doctors. FSA and HSA Eligible.",
+          "price": "$499",
+          "button": "Book Now",
+          "buttonLink": "https://www.vagaro.com/cl/r2wiBe1CgfhdmPBID4bBYbzgbsJRxy1-on8v2trILOs=",
+          "imageURI": "dr85cqwlh/image/upload/v1727031126/lab-testing-gallery2-10_eyvbwc.png"
+        }
+      ]
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to common questions about our lab testing procedures, preparation, and follow-up.",
+      "questions": [
+        {
+          "header": "What is HTMA?",
+          "body": "HTMA stands for Heavy Metal Lab Analysis. It is a test that measures the levels of toxic metals and essential minerals in the body. This test helps identify any imbalances and provides valuable information for personalized wellness and weight loss programs."
+        },
+        {
+          "header": "How to prepare?",
+          "body": "To prepare for lab testing, it is recommended to follow any specific instructions provided by our healthcare professionals. This may include fasting for a certain period of time or avoiding certain medications or supplements. It is important to discuss any concerns or questions with our team prior to your appointment."
+        },
+        {
+          "header": "What to expect?",
+          "body": "During the lab testing procedure, a sample of your blood, urine, or other bodily fluids may be collected. Our experienced staff will ensure your comfort and privacy throughout the process. After the testing, the samples will be analyzed, and the results will be shared with you during a follow-up consultation."
+        },
+        {
+          "header": "How long for results?",
+          "body": "The time it takes to receive your lab test results may vary depending on the specific tests performed. In general, it can take a few days to a couple of weeks. Our team will inform you of the expected timeline and schedule a follow-up consultation to discuss the results and any recommended next steps."
+        },
+        {
+          "header": "Still have questions?",
+          "body": "If you still have questions about our lab testing procedures, preparation, or follow-up, please don't hesitate to reach out to our team. We are here to provide you with the information and support you need."
+        }
+      ]
+    }
+  },
+  "bodyComposition": {
+    "hero": {
+      "title": "The Fit3D Body Scanner: Unleash Your Full Potential",
+      "text": "Explore the groundbreaking Fit3D 3D Body Scanner, the ultimate instrument for fulfilling your health and body shape goals. Leveraging state-of-the-art technology, it offers accurate measurements and detailed visualizations, enabling you to monitor your development and meet your fitness goals with both precision and assurance.",
+      "button": "Get In Touch With Us!"
+    },
+    "fit3d": {
+      "title": "Discover the Full Potential of Your Body with Fit3D",
+      "text": "With the Fit3D 3D Body Scanner, you can now track your progress and achieve your wellness and body shape goals with ease. This advanced technology provides a detailed analysis of your body's measurements, composition, and posture, giving you valuable insights to optimize your health and fitness journey.<ul><li>Accurate Measurements</li><li>Comprehensive Composition Analysis</li><li>Posture Assessment</li><li>Included in all weight loss membership plans.</li></ul>",
+      "button": "Find Your Inspiration"
+    },
+    "progress": {
+      "title": "Track Your Progress and Achieve Your Goals",
+      "text": "Discover a comprehensive view of your body's measurements, composition, and posture with the Fit3D 3D Body Scanner. Easily track your progress and achieve your wellness and body shape goals.<div class='row'><div class='col-sm-6'><strong>Measurements</strong><p>Get detailed insights into your body's measurements, including weight, body fat percentage, and more.</p></div><div class='col-sm-6'><strong>Composition</strong><p>Understand your body composition with data on muscle mass, bone density, and water retention.</p></div></div>"
+    },
+    "universities": {
+      "title": "Trusted by Top Sports Universities: Clemson, Harvard, and More",
+      "text": "Universities such as Clemson, Harvard, and Texas Tech Universities all use the Fit 3D system for their athletes."
+    },
+    "bodyData": {
+      "title": "Accurate Body Data: The Key to Personalized Health and Wellness Plans",
+      "text": "Discover the importance of accurate body data in creating personalized health and wellness plans. With the Fit3D 3D Body Scanner, you can gain a comprehensive view of your body's measurements, composition, and posture. Track your progress and achieve your wellness and body shape goals with ease."
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to common questions about the Fit3D 3D Body Scanner and our Personalized Body Data service.",
+      "questions": [
+        {
+          "header": "What is Fit3D?",
+          "body": "Fit3D is a state-of-the-art 3D body scanning technology that provides a comprehensive view of your body's measurements, composition, and posture."
+        },
+        {
+          "header": "How does it work?",
+          "body": "The Fit3D scanner uses infrared sensors to capture precise measurements of your body. It then generates a 3D model and provides detailed data on your body composition."
+        },
+        {
+          "header": "Why is it beneficial?",
+          "body": "With Fit3D, you can track your progress, set goals, and make informed decisions about your wellness and body shape journey. It provides valuable insights to help you achieve your desired results."
+        },
+        {
+          "header": "Is it safe?",
+          "body": "Yes, Fit3D is completely safe. It uses non-invasive technology and does not expose you to any harmful radiation. Your privacy and data security are also our top priorities."
+        },
+        {
+          "header": "How often should I use it?",
+          "body": "The frequency of using Fit3D depends on your personal goals and preferences. We recommend regular scans to track your progress and make adjustments to your wellness and body shape plans."
+        }
+      ]
+    }
+  },
+  "aboutUs": {
+    "hero": {
+      "title": "Transforming the future of healthcare by revolutionizing medical wellness practices.",
+      "text": "Discover the innovative approach to wellness and weight loss available at Grace Haven Medical, where personalized care is seamlessly blended with cutting-edge strategies to meet your unique health goals. At Grace Haven Medical, we understand that everyone's journey to wellness is different, and we are dedicated to providing tailored solutions that fit your individual needs.",
+      "button": "Book Now"
+    },
+    "ourJourney": {
+      "title": "Our Journey to Becoming a Trusted Wellness Center",
+      "text": "Grace Haven Medical has a rich history, starting from its humble beginnings as a small clinic to becoming a leading wellness center. We have evolved to provide comprehensive services, including weight loss programs, IV therapy, infrared therapy, and more. Our commitment to personalized care and cutting-edge treatments sets us apart.",
+      "button": "Book Now"
+    },
+    "cellularDetox": {
+      "title": "Revolutionary Approach to Cellular Detox and Weight Loss at Grace Haven Medical",
+      "text": "At Grace Haven Medical, we take a unique and holistic approach to cellular detox and weight loss. Our comprehensive programs combine cutting-edge therapies, personalized body data analysis, and advanced treatments to help you achieve your health and wellness goals."
+    },
+    "treatmentPlans": {
+      "title": "Personalized treatment plans tailored to your unique needs and goals.",
+      "text": "At Grace Haven Medical, we believe in the power of individualized care. Our team of experts will create a personalized treatment plan specifically designed to address your unique needs and help you achieve your wellness goals.<ul><li>Customized approach for optimal results.</li><li>Expert guidance every step of the way.</li><li>Comprehensive care for total well-being.</li></ul>"
+    },
+    "leadershipTeam": {
+      "name": "Leadership Team",
+      "items": [
+        {
+          "name": "Tracy Crain",
+          "title": "Founder & CEO",
+          "text": "Tracy, who has a background in Physics, Applied Mathematics, and 25 years in IT, focuses on healing and weight loss. She uses her understanding of the body's healing abilities and her professional experience to innovate in cellular detox and weight loss. By sharing her personal health journey, she encourages others to learn and grow within this community.",
+          "imageURI": "dr85cqwlh/image/upload/v1727040195/about-us-roster-tcrain_y2tqcu.jpg"
+        },
+        {
+          "name": "Jonathan Hodor, DO",
+          "title": "Medical Director",
+          "text": "Dr. Jonathan Hodor, DO, is a highly regarded obstetrician-gynecologist specializing in maternal-fetal medicine. He completed his medical training at Georgetown University in 2006 and has been practicing for over 20 years. He is board-certified in Maternal-Fetal Medicine and Obstetrics and Gynecology, and he speaks both English and Spanish. Dr. Hodor is known for his compassionate approach to patient care and his expertise in treating conditions such as hot flashes, menopause, and obstetrics & gynecology. He has received high patient ratings and is highly recommended by his peers.",
+          "imageURI": "https://github.com/CrainCrew1238/GraceHavenMedical/blob/main/jonathan.jpg"
+        },
+        {
+          "name": "Lawrence Kelly, MD",
+          "title": "50-State Telehealth Medical Director",
+          "text": " Dr. Lawrence W. Kelly is an emergency medicine physician in Stony Brook, New York. He received his medical degree from State University of New York Downstate Medical Center College of Medicine and has been in practice 20+ years. ",
+          "imageURI": "coming soon"
+        },
+        {
+          "name": "Arlyn Sieg",
+          "title": "Men's Health Specialist",
+          "imageURI": "dr85cqwlh/image/upload/v1730406944/arlyn-sieg_zvhmnu.jpg"
+        }
+      ]
+    },
+    "holistic": {
+      "title": "Providing Holistic Treatments for Optimal Health and Well-being",
+      "text": "At Grace Haven Medical Cellular Detox and Weight Loss, we believe in taking a holistic approach to health and well-being. Our treatments are designed to address the root causes of health issues and promote overall wellness.<div class='row'><div class='col-sm-6'><strong>Our Philosophy</strong><p>Our philosophy centers around the idea that true health comes from within.</p></div><div class='col-sm-6'><strong>Our Treatments</strong><p>We offer a range of treatments that support the body's natural healing processes.</p></div></div>"
+    }
+  },
+  "crunchi": {
+    "hero": {
+      "title": "Cruchi Skincare",
+      "text": "Experience the power of natural ingredients with Cruchi Skincare. Our products are carefully formulated to nourish and rejuvenate your skin, leaving it looking healthy and radiant.",
+      "button": "Shop Now",
+      "dropdowns": [
+        {
+          "header": "Beauty without compromise",
+          "body": "At Crunchi we bring you products that you can trust, blending unmatched performance with the highest standards of safety and sustainability. Beauty goes beyond the surface - for you and our planet. Explore our world, where each product is a pledge to this promise."
+        },
+        {
+          "header": "Clean. High-Performance. Sustainable",
+          "body": "We've set a new standard for cosmetic safety and are redefining the beauty industry - where high performance, product safety, and sustainability meet for unprecedented skincare and cosmetic results. With Crunchi, you no longer have to compromise your beauty for your health or your health for your beauty."
+        },
+        {
+          "header": "The Crunchi Way",
+          "body": "Our products proudly showcase badges that underscore our ongoing commitment to safety and sustainability. These badges indicate our products are Toxin-Free, Non-GMO, Gluten-Free, Talc-Free, Cruelty-Free, and Silicone-Free. Additionally, Crunchi has earned certifications from Leaping Bunny for cruelty-free practices and has achieved Plastic Neutral Certification, reinforcing our dedication to environmental responsibility."
+        }
+      ]
+    },
+    "power": {
+      "title": "Discover the Power of Cruchi Skincare",
+      "text": "Experience the ultimate in skincare with Cruchi. Our innovative formula, enriched with natural ingredients, delivers visible results, leaving your skin looking radiant and youthful.",
+      "button": "Shop Now"
+    },
+    "testimonials": {
+      "title": "Customer Reviews",
+      "description": "Hear what our customers have to say about Cruchi Skincare",
+      "items": [
+        {
+          "testimonial": "I am absolutely in love with the I AM Luminous facial oil! My skin has changed (with aging) in the last few years - I have experienced redness, irritation and more visible pores. I have already seen the changes in my skin since starting to use the facial oil! No more redness! Thrilled with the smooth feeling and look of my skin!",
+          "name": "Teresa D."
+        },
+        {
+          "testimonial": "I love oils in general. Wasn't sure how I'd like it on my face, though. It's rich and moisturizing, but doesn't leave a thick oily layer. It must be paired with Clarilight (apply before) and then follow up with Crunchi lotion after. I use it in the morning and evening routine. I love it! So glad I got it. It's worth the price because the performance is working for me.",
+          "name": "Christina"
+        },
+        {
+          "testimonial": "Surprised at the results of this facial oil. Having dry/oily skin I have always shied away from oil. My consultant Bonnie Rose explained and encouraged me to give it a try. My pores are smaller and my face looks fresher and alive. At 69 years old my face is no longer dull with flaky skin and it feels smoother and feels refreshed.",
+          "name": "Kim C."
+        },
+        {
+          "testimonial": "I love everything about this face oil but the most impressive part of this miracle oil would be the quick results I experienced! I had a growing pimple on my cheek bone on the night I first used this oil and when I woke up, the pimple was flat and the next day completely gone! This oil stopped a growing pimple mound and just annihilated it! Smells great and leaves my skin glowing.",
+          "name": "Concha W."
+        }
+      ]
+    },
+    "faq": {
+      "header": "FAQs",
+      "description": "Find answers to frequently asked questions about the Cruchi Skincare product, including usage instructions and concerns.",
+      "questions": [
+        {
+          "header": "How to use?",
+          "body": "To use the Cruchi Skincare product, apply a small amount to clean, dry skin and gently massage in circular motions. Use twice daily for best results."
+        },
+        {
+          "header": "Is it suitable for all skin types?",
+          "body": "Yes, the Cruchi Skincare product is suitable for all skin types, including sensitive skin. However, if you have any specific concerns, we recommend consulting with a dermatologist before use."
+        },
+        {
+          "header": "Can it reduce wrinkles?",
+          "body": "The Cruchi Skincare product is formulated with ingredients that can help reduce the appearance of wrinkles over time. Consistent use is key for optimal results."
+        },
+        {
+          "header": "Is it cruelty-free?",
+          "body": "Yes, the Cruchi Skincare product is cruelty-free. We are committed to producing products that are not tested on animals."
+        },
+        {
+          "header": "How long does it last?",
+          "body": "The duration of the Cruchi Skincare product depends on individual usage. On average, a bottle can last approximately 2-3 months with regular use."
+        }
+      ]
+    },
+    "bottom": {
+      "title": "Cruchi Skincare",
+      "text": "Discover the transformative power of Cruchi Skincare products."
+    }
+  },
+  "patchAid": {
+    "hero": {
+      "title": "PatchAid Vitamins",
+      "text": "Today’s world is fast-paced and customer-driven. You expect convenience and the latest technology in healthcare, the foods you eat, and even when you shop for clothes and household items. Why would you not expect your vitamins to be the same way?",
+      "button": "Coming Soon",
+      "dropdowns": [
+        {
+          "header": "Taking Vitamins: Full or Empty Stomach, No Worries!",
+          "body": "No worries about taking vitamins on a full or empty stomach; they are designed to be absorbed efficiently regardless of your meal timing. So, whether you take them with breakfast or on the go, you’ll still reap the benefits."
+        },
+        {
+          "header": "Say Goodbye to Daily Pills",
+          "body": "There's no need to choke down multiple pills each day. Instead, explore more enjoyable and convenient ways to get your daily nutrients and medications."
+        },
+        {
+          "header": "Eliminate Confusion: Track Your Pills with Ease Today",
+          "body": "No confusion about which pills you have taken or still need to take today, ensuring you stay on track with your medication regimen for better health and peace of mind."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Customer Reviews",
+      "description": "Hear what our customers have to say about PatchAid Vitamins",
+      "items": [
+        {
+          "testimonial": "Have been taking these for 9+ months. My bloodwork is amazing every time my doctor checks it!",
+          "name": "Morgan"
+        },
+        {
+          "testimonial": "This patch has helped curb my appetite. I am not craving sugar as much as I used to. And I was able to get over my weight loss plateau and see good results! Already ordering my second month.",
+          "name": "Elisha A."
+        },
+        {
+          "testimonial": "I just started using this week, so I can't tell if it's working yet. The patch is so much easier than all those pills.",
+          "name": "Carol C."
+        },
+        {
+          "testimonial": "Seems to be working well!! I feel good most of the time. I’m on my second month of them. So we shall see if there’s any difference between months of use.",
+          "name": "Jessica S."
+        }
+      ]
+    },
+    "bottom": {
+      "title": "PatchAid Vitamins",
+      "text": ""
+    }
+  },
+  "mensHealth": {
+    "hero": {
+      "title": "Empowering men to achieve their optimal health, confidence, and well-being.",
+      "text": "At Grace Haven Medical Cellular Detox & Weight Loss, we provide cutting-edge treatments, expert care, and personalized wellness plans designed to enhance physical, mental, and emotional health. With a focus on holistic, science-driven solutions, we strive to help men look and feel their best at every stage of life.",
+      "button": "Free Consultation"
+    },
+    "gallery": {
+      "title": "Menu of Men's Offerings",
+      "text": "<h4 class='my-3'>Physician Telehealth Exam for Prescription</h4><p>Our Physician Telehealth Exam Service offers a convenient virtual consultation, providing a personalized treatment plan and prescriptions for therapies like weight loss, hormone therapy and muscle-building supplements, valid for 6 months, ensuring expert-supervised care without frequent office visit charges.</p><p>Physician Telehealth Exam for Prescription(s) & Treatments -- $69 One-Time/6 Months/for any or all therapies</p><button class='btn btn-primary mt-auto w-50 py-3' href='https://www.vagaro.com/cl/3uGLWeJ5sa0wTFGV96TqtkkTek-3jBVfnG-5QORwiPg='>BOOK NOW</button>",
+      "items": [
+        {
+          "header": "Testosterone Restoration Package",
+          "price": "$99/Month",
+          "button": "Learn More",
+          "buttonLink": "#testosterone"
+        },
+        {
+          "header": "Muscle Building",
+          "price": "Starting at $179/Month",
+          "button": "Learn More",
+          "buttonLink": "#muscle-building"
+        },
+        {
+          "header": "Premium PRP+ Hair",
+          "price": "$4500 One Time",
+          "button": "Learn More",
+          "buttonLink": "#prp"
+        },
+        {
+          "header": "Weight Loss",
+          "price": "Starting at $299/Month",
+          "button": "Learn More",
+          "buttonLink": "#weight-loss"
+        },
+        {
+          "header": "Infrared and Magnet Therapy",
+          "price": "$99/Month",
+          "button": "Learn More",
+          "buttonLink": "#therapies"
+        },
+        {
+          "header": "IV Nutrition",
+          "price": "Starting at $229",
+          "button": "Learn More",
+          "buttonLink": "#nutrition"
+        }
+      ]
+    },
+    "testosterone": {
+      "title": "Testosterone Monthly Membership",
+      "text": "<p>Our Testosterone Hormone Replacement Therapy Monthly Membership is designed to optimize your health, energy, and performance through customized hormone therapy. This service includes concierge-style weekly testosterone injections, either subcutaneous or intramuscular, based on your preference and medical needs. Our expert team ensures consistent monitoring and guidance throughout the process to maximize the benefits of your treatment.</p><p>Experience increased energy, enhanced sexual health, and improved muscle building with regular, precise dosing designed to meet your unique goals. Whether you're looking to boost vitality, improve workout results, or restore hormonal balance, our comprehensive program offers the support and care you need for lasting transformation.</p><p class='text-center'><strong>What is Required to Get Started?</strong></p><ul class='text-center list-unstyled'><li><p>Lab Test (T< 750ng/ml) -- $180 One-time/6 Months</p><p><a class='btn btn-primary mt-auto w-50 py-3' href='https://www.vagaro.com/cl/ggwT~lYDqBY6HrCjg1663NmpMLBXi5iV5ZEhN9XPMPQ='>ORDER LAB TEST</a></p></li><li><p>Physician Exam & Lab Result Review for Prescription -- $69 One-Time/6 Months</p><p><a class='btn btn-primary mt-auto w-50 py-3' href='https://www.vagaro.com/cl/3uGLWeJ5sa0wTFGV96TqtkkTek-3jBVfnG-5QORwiPg='>ORDER PHYSICIAN EXAM W/COMPLETED LABS</a></p></li><li><p>Monthly Testosterone Injection (100mg-200mg) -- $99/Month</p><p><a class='btn btn-primary mt-auto w-50 py-3' href='https://www.vagaro.com/cl/VwqeT-eFwVRLtSmVwFSYl8-z8f8MqM32B5aZVnPB-ws='>BOOK NOW</a></p></li></ul>"
+    },
+    "carousel": {
+      "title": "Muscle Building",
+      "items": [
+        {
+          "title": "GROWTH HORMONE REPLACEMENT THERAPY (GHRT) MONTHLY MEMBERSHIP",
+          "content": "Our Growth Hormone Replacement Therapy (GHRT) Monthly Membership is designed for individuals committed to enhancing muscle growth, improving body composition, and accelerating recovery. Tailored specifically for muscle building and bodybuilding, this membership offers personalized growth hormone dosing, regular health monitoring, and expert consultations to optimize your results safely and effectively. With GHRT, you can achieve faster muscle hypertrophy, reduced fat, increased stamina, and enhanced recovery, all while being closely supervised by certified medical professionals. Experience a customized approach to reaching your peak performance and unlock your body's full potential with our GHRT Monthly Membership.",
+          "planInfo": "Daily Growth Hormone Semorelin Injections (Peptide) -- $225 / Month with minimum 3 Month Membership + Prescription",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/B9GjWwffRgKc8lE38h1fzCYe9BuNoKZpNOXGPgL3D5E="
+        },
+        {
+          "title": "MUSCLE PRESERATION GLYCINE + GROWTH HORMONE REPLACEMENT THERAPY (GHRT) SEMORELIN MONTHLY MEMBERSHIP",
+          "content": "Our Growth Hormone Replacement Therapy (GHRT) Monthly Membership is designed for individuals committed to enhancing muscle growth, improving body composition, and accelerating recovery. Tailored specifically for muscle building and bodybuilding, this membership offers personalized growth hormone dosing, regular health monitoring, and expert consultations to optimize your results safely and effectively. With GHRT, you can achieve faster muscle hypertrophy, reduced fat, increased stamina, and enhanced recovery, all while being closely supervised by certified medical professionals. Experience a customized approach to reaching your peak performance and unlock your body's full potential with our GHRT Monthly Membership.",
+          "planInfo": "Semorelin/Glycine Injections (Growth Hormone/Peptide) -- $299 / Month with minimum 3 Month Membership + Prescription",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/AnkGcmUcys6hpqGD6UwTePyhMTgXI42U3LE1uFBYRKk="
+        },
+        {
+          "title": "NANDROLONE DECANOATE STEROID INJECTION MONTHLY MEMBERSHIP",
+          "content": "Our Monthly Nandrolone Decanoate Injection Service is tailored for those seeking enhanced muscle growth, improved strength, and faster recovery in their bodybuilding or fitness journey. Nandrolone Decanoate, a powerful anabolic steroid, helps promote muscle hypertrophy, increase lean body mass, and support joint and tissue health, making it ideal for those looking to push past training plateaus. Administered under medical supervision, this service ensures safe, effective dosing and regular health monitoring, allowing you to achieve your physique goals while minimizing risks. Elevate your performance and maximize your muscle-building potential with our Monthly Nandrolone Decanoate Injection service.",
+          "planInfo": "Weekly Nandrolone Decanoate Injection (Steroid) -- $179 / Month with minimum 3 Month Membership + Prescription",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/G2mhKn7JrUori1gPLayA56PhCRO6R3I2UNZ~jBkQCs8="
+        },
+        {
+          "title": "OXANDROLONE STEROID ORAL SUPPLEMENT",
+          "content": "Our Monthly Oxandrolone Oral Supplement Service is a premium offering designed for individuals looking to enhance muscle definition, increase strength, and reduce body fat as part of their fitness or bodybuilding regimen. Oxandrolone, a mild anabolic steroid, promotes lean muscle growth and fat loss without excessive bulk, making it ideal for both men and women seeking a sculpted, toned physique. At our MedSpa, this service is provided under expert medical supervision, ensuring safe and effective dosing along with regular health assessments. Achieve your aesthetic and performance goals with the support of our trusted team through the Monthly Oxandrolone Oral Supplement Service.",
+          "planInfo": "Monthly Oxandrolone Oral Supplement (Steroid) -- $225 / Month with minimum 3 Month Membership + Prescription (upfront payment)",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/E9iCekH6lDK6dMq~lSwaM8DVxJ8jzuZtMDi6wotS30g="
+        }
+      ]
+    },
+    "hairRestoration": {
+      "title": "Ultimate PRP+ Hair Restoration Therapy",
+      "content": "<p>The Ultimate PRP+ Hair Restoration Therapy is a comprehensive, multi-faceted solution for scalp rejuvenation and hair regrowth, combining advanced hair restoration therapies, potent topical serums, and essential supplements to deliver optimal results. This cutting-edge, non-surgical treatment begins with a personalized consultation to assess your suitability for hair regrowth, followed by PRP microneedling and injections using your own Platelet-Rich Plasma (PRP), enhanced with high-grade numbing cream for a comfortable, spa-like experience. The PRP is processed to concentrate growth factors, which are then injected into targeted areas of the scalp to repair damaged hair follicles, increase blood flow, and stimulate the regeneration of healthy, thicker hair. Along with three combination therapy sessions, the package includes a tailored daily regimen and a three-month supply of topical serums and supplements to support continuous hair growth. Ideal for individuals experiencing thinning hair or early stages of hair loss, this therapy offers a natural, effective solution with minimal downtime, allowing you to enjoy fuller, healthier hair and regain confidence in your appearance.</p><p>Package Includes 3 Sessions & 3 Month Supply:</p><ul><li>PRP Microneedling & Scalp Smear</li><li>PRP Injections</li><li>GHK+ Copper Topical</li><li>Follicle Fix (Minoxidil/Finasteride) Topical</li><li>Hair Force One Supplement (Vitamin C + Zinc + Biotin + Iron)</li><li>Cedar Oral Supplement (Biotin + Finasteride + Minoxidil)</li></ul><div class='text-center'><h4>$4500</h4><em class='mb-2 d-block'>*services & products not offered individually</em><p><button class='btn btn-primary mt-auto w-50 py-3' href='https://www.vagaro.com/cl/5Skj4vuU0xWaAdGuRQOlSTMoXmPScb14x-e7FDPcpb4='>BOOK FREE CONSULTATION NOW</button></p><p><button class='btn btn-primary mt-auto w-50 py-3' href=' https://www.vagaro.com/cl/4AFM1OrJLSQOPVEiR988MCzoYEHfl0mDbTbBXZWecNI='>ADD TO CART</button></p></div>"
+    },
+    "weightLoss": {
+      "title": "Weight Loss Injections",
+      "consultation": "Free Consultation",
+      "consultationLink": "https://www.vagaro.com/cl/5Skj4vuU0xWaAdGuRQOlSTMoXmPScb14x-e7FDPcpb4=",
+      "otherOptions": "Other Weight Loss Options",
+      "otherOptionsLink": "/weight-loss",
+      "items": [
+        {
+          "title": "GLP-1 WEIGHT LOSS MONTHLY MEMBERSHIP",
+          "content": "Our Standard Weight Loss Monthly Membership offers a powerful, science-backed solution to support your weight loss journey with weekly injections, a naturally occurring peptide that regulates insulin levels for cellular detoxification and fat loss. For a flat rate of $299 per month, you’ll receive personalized doses ranging from 0.25mg to 2.5mg, tailored to your individual needs. This comprehensive program includes access to a custom app featuring diet and nutrition plans, grocery lists, custom workouts, plus memberships to Fit3D body composition scans and weekly FAR Infrared detox sessions. With medical supervision and holistic support, this membership ensures steady, sustainable weight loss and improved overall wellness.",
+          "planInfo": "Weekly GLP-1 Weight Loss Injections (Peptide) -- $299 / Month-to-Month Membership + Prescription",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/k3Pw2WieAxWBATfedCZ-TeSja7nljf1CrrtVc9qyANE="
+        },
+        {
+          "title": "GLP-T PREMIUM WEIGHT LOSS MONTHLY MEMBERSHIP",
+          "content": "Our Premium Weight Loss Monthly Membership offers a game-changing solution for those looking to lose over 50 pounds, providing a medication that's 10 times more potent, yet for less than double the price. It not only regulates insulin, but also targets multiple pathways in the body for enhanced fat loss and metabolism. For just $399 per month, you’ll receive weekly personalized doses tailored to your needs, significantly accelerating weight loss results. This program includes access to a custom app with diet and nutrition plans, grocery lists, custom workouts, Fit3D body composition scans, and weekly Full Spectrum Infrared detox sessions. With holistic support and expert medical supervision, our premium membership delivers faster, more powerful weight loss, making it the ideal solution for those seeking dramatic results.",
+          "planInfo": "Weekly Premium Weight Loss Injections (Peptide) -- PROMO $499 / Month-to-Month Membership + Prescription for first 3 months, ($749 / Month Regularly)",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/NrsMyhe4ZGuKWMPmtauzVhA99dAPW1P3TpeMcT9TD3w="
+        }
+      ]
+    },
+    "infraredAndMagnet": {
+      "title": "Infrared & Magnet Therapy",
+      "items": [
+        {
+          "title": "FULL SPECTRUM & MAGNET THERAPY & RED-LIGHT THERAPY MONTHLY MEMBERSHIP",
+          "content": "Our Full Spectrum & Magnet Therapy with Red Light Therapy Session combines three powerful modalities to promote overall wellness, pain relief, and rejuvenation. Full spectrum light therapy targets a range of skin and health issues, from inflammation reduction to improved mood and energy levels, while magnet therapy helps enhance circulation, reduce pain, and accelerate healing at the cellular level. Red light therapy further stimulates collagen production, reduces wrinkles, and supports muscle recovery by promoting cellular regeneration. Together, these therapies provide a holistic approach to enhance physical recovery, improve skin health, and boost overall vitality.",
+          "planInfo": "Full Spectrum Monthly Membership (Unlimited) -- $159 / Month Promo (Regularly $169 / Month)",
+          "button": "Add to Cart",
+          "buttonUrl": "https://www.vagaro.com/cl/IHAipVFRKBJHzrS8BmKP2xuSyj9ztIpGBpkJ9cb4uOA="
+        },
+        {
+          "title": "FAR INFRARED & RED-LIGHT THERAPY MONTHLY MEMBERSHIP",
+          "content": "Our FAR INFRARED & Red-Light Therapy Session offers a powerful combination of therapies designed to promote healing, detoxification, and rejuvenation. FAR infrared therapy penetrates deep into the skin, helping to increase circulation, detoxify the body, reduce inflammation, and relieve pain, while also supporting metabolic function. Red light therapy works at the cellular level to boost collagen production, improve skin tone, reduce wrinkles, and accelerate muscle recovery. Together, these therapies provide a comprehensive approach to enhancing skin health, relieving pain, promoting relaxation, and boosting overall wellness.",
+          "planInfo": "FAR Infrared & Red-Light Monthly Membership (Unlimited) -- $89 / Month Promo (Regularly $99 / Month)",
+          "button": "Book Now",
+          "buttonUrl": "https://www.vagaro.com/cl/7M7V4J5YfPE3x0gAtoESsnL8gvxh-qJLsH1ybcYsJ6o="
+        }
+      ]
+    },
+    "ivNutrition": {
+      "title": "IV Nutrition & IM Injections",
+      "text": "Our IV Nutrition Therapy for Men's Health offers targeted solutions to support vitality, cellular detox, and overall wellness. Choose from treatments like B-Lean, designed to boost metabolism and energy levels, Inner Beauty, which enhances skin health and radiance, and Glutathione, a powerful antioxidant for cellular detox and immune support. Whether you're looking to improve physical performance, enhance your appearance, or detoxify at the cellular level, our IV therapies can be mixed and matched to suit your individual needs. Enjoy 25% off when you purchase 10 treatments, giving you the flexibility to tailor your wellness journey while achieving maximum results.",
+      "button": "IV & IM Injections Available Here"
+    },
+    "ed": {
+      "title": "ED & Other Men's Health Therapies",
+      "text": "Our Custom Men's Health Experience is designed to address a wide range of men's health concerns, including erectile dysfunction, low libido, hormone imbalances, and overall vitality. This personalized approach begins with a thorough consultation to assess your specific health needs and goals. Based on this evaluation, we create a tailored treatment plan that may include therapies such as hormone optimization, erectile dysfunction treatments, and nutritional supplements to enhance sexual performance, energy levels, and overall wellness. Our expert medical team ensures that each treatment is customized for maximum effectiveness, giving you the confidence and health you deserve. With ongoing support and monitoring, we help you regain control of your health, boost your vitality, and enhance your quality of life. ",
+      "button": "Book a free consultation today"
+    }
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "text": "Have a question or need assistance? Contact us!",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "submit": "Submit",
+    "call": "Call"
+  }
+}
