@@ -1,16 +1,15 @@
-import { getDictionary } from '../app/[lang]/dictionaries'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row';
 import MembershipBlock from './membership-block';
 import { Great_Vibes } from 'next/font/google';
-import { RouteParams } from '@/types';
 
 import styles from './memberships.module.css';
+import {getDictionary} from "@/lib/dictionaries.ts";
 
 const greatVibes = Great_Vibes({ subsets: ['latin'], weight: '400' });
 
-export default async function Memberships(props: RouteParams) {
-  const dict = await getDictionary(props.params.lang);
+export default async function Memberships() {
+  const dict = await getDictionary();
 
   return (
     <div style={{ backgroundColor: '#fff', paddingBottom: '4rem' }}>
@@ -23,8 +22,9 @@ export default async function Memberships(props: RouteParams) {
         </Container>
         <Container>
           <Row className={styles.membershipPlans}>
-            {dict.homePage.membershipPlans.plans.map((plan: { [key: string]: string }, idx: number) => (
-              <MembershipBlock key={`plan-${idx}`} plan={plan} />
+            {/* TODO: BECAUSE OF THE TERRIBLE TYPING - I'VE SET THIS TO ANY TO SUPPRESS ERRORS. :( */}
+            {(dict.homePage.membershipPlans.plans as any[]).map((plan: any, idx: number) => (
+                <MembershipBlock key={`plan-${idx}`} plan={plan as any} />
             ))}
           </Row>
         </Container>

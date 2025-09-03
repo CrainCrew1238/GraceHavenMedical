@@ -14,8 +14,12 @@ import DropdownItem from 'react-bootstrap/DropdownItem';
 import styles from './offer-menu.module.css';
 import { usePathname } from 'next/navigation';
 
+//  TODO: NO! THIS IS BAD!!!
 export default function OfferMenu(dictionary: any) {
   const pathname = usePathname();
+
+  // WHY?!?!
+  //  \/
   const lang = pathname.split('/')[1];
 
   return (
@@ -26,7 +30,7 @@ export default function OfferMenu(dictionary: any) {
             <div className={styles.offerHeader}>{dictionary?.dictionary?.links?.headers?.therapies.toUpperCase()}</div>
             {dictionary?.dictionary?.links.therapies?.map((therapy: any, index: number) => (
               <div className={styles.menuLink} key={`therapy-link-${index}`}>
-                <Button variant="link" href={`/${lang}${therapy.link}`}>
+                <Button variant="link" href={`${therapy.link}`}>
                   <div className={styles.menuTitle}>{therapy.title.toUpperCase()}</div>
                   <div className={styles.menuSubtitle}>{therapy.subtitle.toUpperCase()}</div>
                 </Button>
@@ -37,7 +41,7 @@ export default function OfferMenu(dictionary: any) {
             <div className={styles.offerHeader}>{dictionary?.dictionary?.links?.headers?.diagnostics.toUpperCase()}</div>
             {dictionary?.dictionary?.links.diagnostics?.map((therapy: any, index: number) => (
               <div className={styles.menuLink} key={`therapy-link-${index}`}>
-                <Button variant="link" href={`/${lang}${therapy.link}`}>
+                <Button variant="link" href={`${therapy.link}`}>
                   <div className={styles.menuTitle}>{therapy.title.toUpperCase()}</div>
                   <div className={styles.menuSubtitle}>{therapy.subtitle.toUpperCase()}</div>
                 </Button>
