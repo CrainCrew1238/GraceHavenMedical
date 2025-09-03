@@ -60,7 +60,7 @@ export default async function RootLayout({
                     </a>
                     <div className="pe-2 ps-2 d-none d-sm-inline-block">|</div>
                     <div className="d-block d-sm-inline-block mt-1 mt-sm-0 fs-6 text-white mb-1">
-                      23080 Tabak Ln, Land O' Lakes, FL 34639
+                      23080 Tabak Ln Ste. 104, Land O' Lakes, FL 34639
                     </div>
                   </Col>
                 </Row>
@@ -93,7 +93,7 @@ export default async function RootLayout({
                 <div className={styles.contactSmall}>
                   <div>{dict.footer.phoneNumber}: <a href="tel:+18134359193">(813) 435-9193</a></div>
                   <div>SMS: <a href="tel:+18134359332">(813) 435-9332</a></div>
-                  <div>23080 Tabak Ln, Land O' Lakes, FL 34639</div>
+                  <div>23080 Tabak Ln Ste. 104, Land O' Lakes, FL 34639</div>
                 </div>
                 <div className={styles.contactHours}>
                   <div>{dict.footer.monThursFri}</div>
