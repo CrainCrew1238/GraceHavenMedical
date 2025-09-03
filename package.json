@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev & next-video sync -w",
+    "dev": "next dev",
     "build": "next build",
+    "postbuild": "echo 'Build Complete. Magic 🪄'",
     "start": "next start",
     "lint": "next lint"
   },
@@ -14,7 +15,6 @@
     "bootstrap": "^5.3.3",
     "negotiator": "^0.6.3",
     "next": "14.2.5",
-    "next-video": "^1.1.4",
     "react": "^18",
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18",

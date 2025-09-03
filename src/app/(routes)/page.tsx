@@ -1,6 +1,5 @@
 import Container from 'react-bootstrap/Container'
 import Button from 'react-bootstrap/Button';
-import styles from "./page.module.css";
 import Memberships from '@/components/memberships.tsx';
 import ContentBlock from '@/components/content-block.tsx';
 import links from '../../lib/links.json';
