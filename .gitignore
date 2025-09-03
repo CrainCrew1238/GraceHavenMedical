@@ -48,3 +48,10 @@ next-env.d.ts
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# next-video
+videos/*
+!videos/*.json
+!videos/*.js
+!videos/*.ts
+public/_next-video
