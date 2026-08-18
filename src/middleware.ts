@@ -33,11 +33,31 @@ const DEFAULT_LOCALE: (typeof SUPPORTED)[number] = 'en';
  * console.log(locale); // 'en' or 'es'
  */
 function getPreferredLocale(request: NextRequest): (typeof SUPPORTED)[number] {
-  const negotiator = new Negotiator({
-    headers: Object.fromEntries(request.headers.entries()),
-  });
-  const languages = negotiator.languages();
-  return localeMatch(languages, SUPPORTED, DEFAULT_LOCALE) as (typeof SUPPORTED)[number];
+  try {
+    const negotiator = new Negotiator({
+      headers: Object.fromEntries(request.headers.entries()),
+    });
+
+    // Negotiator returns ['*'] when the request carries no Accept-Language
+    // header at all - which is the case for crawlers such as Googlebot and
+    // facebookexternalhit, and for uptime monitors. '*' is not a structurally
+    // valid BCP 47 language tag, so passing it to the locale matcher throws
+    // `RangeError: Incorrect locale information provided` and takes down every
+    // route with a 500. Drop wildcards and anything malformed before matching.
+    const languages = negotiator
+      .languages()
+      .filter((lang) => typeof lang === 'string' && lang !== '*' && /^[a-zA-Z]{2,8}(-[a-zA-Z0-9]{1,8})*$/.test(lang));
+
+    if (languages.length === 0) {
+      return DEFAULT_LOCALE;
+    }
+
+    return localeMatch(languages, SUPPORTED, DEFAULT_LOCALE) as (typeof SUPPORTED)[number];
+  } catch {
+    // Locale negotiation must never be able to break the site. Any unexpected
+    // input falls back to the default locale.
+    return DEFAULT_LOCALE;
+  }
 }
 
 /**
