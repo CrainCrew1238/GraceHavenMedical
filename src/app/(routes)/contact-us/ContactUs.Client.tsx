@@ -69,7 +69,7 @@ export default function ContactUsClient({ dict }: Props) {
                                             {dict?.contactUs.call}: <a href="tel:+18134359193">(813) 435-9193</a>
                                         </h4>
                                         <h4>
-                                            SMS: <a href="tel:+18134359332">(813) 435-9332</a>
+                                            SMS: <a href="tel:+18337739131">833.773.9131</a>
                                         </h4>
                                     </Col>
                                 </Row>
