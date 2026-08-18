@@ -36,6 +36,9 @@ const raleway = Raleway({ subsets: ['latin'] });
 // TODO: Since this is the "HERO" / "LANDING" page we should really change this to something shorter aka "Cellular Detox & Weight Loss in Tampa, FL"
 export const metadata: Metadata = {
   title: 'Grace Haven Medical: Cellular Detox & Weight Loss in Tampa, FL',
+  other: {
+    'facebook-domain-verification': 'oh78nifxmuw26c08e2xzcpen2zdl2l',
+  },
 };
 
 export default async function RootLayout({
