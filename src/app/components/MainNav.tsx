@@ -54,6 +54,7 @@ export default function MainNav(dictionary: any) {
             <NavLink href={`/memberships`} className="px-3">{dictionary?.dictionary?.pageTitles?.memberships.toUpperCase()}</NavLink>
             <OfferMenu dictionary={dictionary.dictionary} />
             <NavLink href={`/about-us`} className="px-3">{dictionary?.dictionary?.pageTitles?.aboutUs.toUpperCase()}</NavLink>
+            <NavLink href={`/payment-plans`} className="px-3">{dictionary?.dictionary?.pageTitles?.paymentPlans.toUpperCase()}</NavLink>
             <NavDropdown title={dictionary?.dictionary?.pageTitles.shop.toUpperCase()} id="shop-nav-dropdown" className="px-3">
               <DropdownItem href={'https://www.vagaro.com/cl/gRaR6piiSY-bXIAXxPfDlim6IhST9IWXQJ--2XSWQhs='}>{dictionary?.dictionary?.pageTitles?.glucoferrin.toUpperCase()}</DropdownItem>
               <DropdownItem href={`/crunchi-skincare`}>{dictionary?.dictionary?.pageTitles?.crunchi.toUpperCase()}</DropdownItem>
