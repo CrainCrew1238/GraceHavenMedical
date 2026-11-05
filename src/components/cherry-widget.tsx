@@ -13,7 +13,7 @@ declare global {
 
 export default function CherryWidget() {
   useEffect(() => {
-    if (document.getElementById('cherry-widget-script')) {
+    if (document.getElementById('_hw')) {
       return;
     }
 
@@ -22,7 +22,7 @@ export default function CherryWidget() {
     };
 
     const script = document.createElement('script');
-    script.id = 'cherry-widget-script';
+    script.id = '_hw';
     script.src = 'https://files.withcherry.com/widgets/widget.js';
     script.async = true;
     document.head.appendChild(script);
