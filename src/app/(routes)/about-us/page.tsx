@@ -73,7 +73,7 @@ const AboutUsPage = async () => {
         }}
       />
       <div className="py-4" style={{ backgroundColor: '#fff' }}>
-        <Container className="p-3" style={{ color: '#aa9c91', border: '2px solid #aa9c91', borderRadius: '8px', textAlign: 'center' }}>
+        <Container className="p-3 affiliate-partners" style={{ color: '#aa9c91', border: '2px solid #aa9c91', borderRadius: '8px', textAlign: 'center' }}>
           <h2>Affiliate Partners</h2>
           <p>Grace Haven Medical works with established pharmacy and supply partners to support individualized, clinician-directed care. All listed pharmacy partners are LegitScript certified and adhere to applicable compliance requirements.</p>
           <div className="row g-4 text-start mt-1">
