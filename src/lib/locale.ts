@@ -28,10 +28,10 @@ const DEFAULT = 'en';
  * console.log(locale); // 'en' or 'es'
  * ```
  */
-export function getRequestLocale(): 'en' | 'es' {
-    const c = cookies().get('locale')?.value;
+export async function getRequestLocale(): Promise<'en' | 'es'> {
+    const c = (await cookies()).get('locale')?.value;
     if (c && SUPPORTED.has(c)) return c as 'en' | 'es';
 
-    const accept = headers().get('accept-language') || '';
+    const accept = (await headers()).get('accept-language') || '';
     return accept.toLowerCase().startsWith('es') ? 'es' : (DEFAULT as 'en');
 }

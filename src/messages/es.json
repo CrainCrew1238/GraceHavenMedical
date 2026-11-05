@@ -12,7 +12,8 @@
     "glucoferrin": "Glucoferrina",
     "crunchi": "Cuidado de Piel Crunchi",
     "patchAid": "Vitaminas PatchAid",
-    "contact": "Contáctenos"
+    "contact": "Contáctenos",
+    "paymentPlans": "Planes de pago"
   },
   "links": {
     "headers": {
@@ -1224,36 +1225,30 @@
           "imageURI": "dr85cqwlh/image/upload/v1727040195/about-us-roster-tcrain_y2tqcu.jpg"
         },
         {
-          "name": "Dr. Sean Arora",
-          "title": "Director médico",
-          "text": "El Dr. Arora ha dedicado toda su vida a mejorar la atención médica. Su enfoque se extiende desde las necesidades médicas de los pacientes hospitalizados hasta la administración de sus propios hogares de ancianos. Su pasión por la medicina estética continúa creciendo al brindar atención en todo el país, expandiéndose en más de 25 estados. El Dr. Arora siempre busca crecer continuamente buscando la próxima área de la atención médica en la que incursionar.",
-          "imageURI": "dr85cqwlh/image/upload/v1727040193/about-us-roster-sarora_kugg4b.jpg"
+          "name": "Roxanna Namavar, MD",
+          "title": "Directora médica",
+          "imageURI": "/roxanna-namavar-md-profile.jpg",
+          "text": "La Dra. Roxanna Namavar es una psiquiatra certificada por la junta y líder en medicina integrativa, con amplia experiencia en bienestar cognitivo y celular, terapia de infusión y atención terapéutica personalizada. Como fundadora y directora ejecutiva de Pretty Healthy NYC, dirige una práctica privada de concierge centrada en la salud integral de la persona. Su formación incluye una residencia en psiquiatría en el Sistema de Salud de la Universidad de Virginia y una beca en medicina antienvejecimiento y regenerativa. La Dra. Namavar aporta experiencia en liderazgo clínico, desarrollo de protocolos, supervisión de personal médico y la aplicación de investigación emergente a una atención de bienestar reflexiva y centrada en el paciente."
         },
         {
-          "name": "Amanda Tuel",
-          "title": "Enfermera practicante",
-          "text": "Amanda, una enfermera especializada certificada por la junta con 14 años de experiencia en áreas como medicina de emergencia, medicina familiar, dermatología, telemedicina, estética y pérdida de peso. Garantiza una atención segura y eficaz para todos los pacientes. Como inyectora certificada, disfruta guiando a los pacientes a través de los tratamientos estéticos, tanto en persona como de forma remota. Fuera del trabajo, le encanta pasar tiempo con la familia, montar a caballo y hacer proyectos de bricolaje.",
-          "imageURI": "dr85cqwlh/image/upload/v1727040187/about-us-roster-atuel_vwl2pi.png"
+          "name": "Theresa Zorn",
+          "title": "APRN autónoma principal",
+          "text": "Theresa Zorn, APRN, es la APRN autónoma principal de Grace Haven Medical. Se especializa en terapias con péptidos, apoyo para el crecimiento del cabello y servicios de ultrasonido Sonic + RF, y cuenta con certificación en manejo del dolor por migraña.",
+          "imageURI": "/theresa-zorn.jpg"
         },
         {
-          "name": "Danielle Milazza",
-          "title": "Enfermera practicante",
-          "text": "Danielle es una enfermera familiar certificada con una sólida formación en atención médica y experiencia en atención primaria/medicina interna, terapia de reemplazo hormonal, pérdida de peso, diabetes, control de la tiroides, revisión de laboratorio y diagnóstico por imágenes. Le apasiona el bienestar, la nutrición y la mejora de la salud en general a través de cambios en el estilo de vida y hormonas equilibradas, adaptadas a las necesidades de cada individuo.",
-          "imageURI": "dr85cqwlh/image/upload/v1727040189/about-us-roster-dmilazza_xv116l.jpg"
+          "name": "Suzy Dahdal",
+          "title": "NP"
         },
         {
-          "name": "Morgan Price",
-          "title": "Enfermera titulada",
-          "imageURI": "dr85cqwlh/image/upload/v1727040191/about-us-roster-mprice_bemfmj.jpg"
-        },
-        {
-          "name": "Tiana Fernandez",
-          "title": "Enfermera titulada",
-          "imageURI": "dr85cqwlh/image/upload/v1727040197/about-us-roster-tfernandez_azfaja.png"
+          "name": "Naomi Barragan",
+          "title": "DEM y terapeuta principal de masaje para mujeres",
+          "text": "Naomi Barragan es la DEM y terapeuta principal de masaje para mujeres de Grace Haven Medical. Se especializa en drenaje linfático, masajes deportivos y de relajación, ventosas, masajes prenatales y suecos, terapia infrarroja y terapia de luz roja.",
+          "imageURI": "/naomi-barragan.jpg"
         },
         {
           "name": "Arlyn Sieg",
-          "title": "Especialista en Salud Masculina",
+          "title": "Especialista en salud masculina",
           "imageURI": "dr85cqwlh/image/upload/v1730406944/arlyn-sieg_zvhmnu.jpg"
         }
       ]

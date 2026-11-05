@@ -33,5 +33,5 @@ import { getRequestLocale } from './locale';
  * ```
  */
 export async function getDictionary() {
-    return getRequestLocale() === 'es' ? es : en;
+    return (await getRequestLocale()) === 'es' ? es : en;
 }

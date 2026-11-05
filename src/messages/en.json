@@ -12,7 +12,8 @@
     "glucoferrin": "Glucoferrin",
     "crunchi": "Crunchi Skincare",
     "patchAid": "PatchAid Vitamins",
-    "contact": "Contact"
+    "contact": "Contact",
+    "paymentPlans": "Payment Plans"
   },
   "links": {
     "headers": {
@@ -1192,10 +1193,10 @@
           "imageURI": "dr85cqwlh/image/upload/v1727040195/about-us-roster-tcrain_y2tqcu.jpg"
         },
         {
-          "name": "Dr. Abishek Khatri",
-          "title": "MD | Sleep Medicine Specialist",
-          "text": "Dr. Abishek Khatri, MD, is a board-certified sleep medicine physician. His clinical focus includes sleep medicine, obesity medicine, and internal medicine.",
-          "imageURI": "/abhishek-khatri.jpg"
+          "name": "Roxanna Namavar, MD",
+          "title": "Medical Director",
+          "imageURI": "/roxanna-namavar-md-profile.jpg",
+          "text": "Dr. Roxanna Namavar is a board-certified psychiatrist and integrative medicine leader with extensive experience in cognitive and cellular wellness, infusion therapy, and personalized therapeutic care. As Founder and CEO of Pretty Healthy NYC, she leads a concierge private practice centered on whole-person health. Her training includes a psychiatry residency at the University of Virginia Health System and a fellowship in anti-aging and regenerative medicine. Dr. Namavar brings experience in clinical leadership, protocol development, medical-staff oversight, and translating emerging research into thoughtful, patient-centered wellness care."
         },
         {
           "name": "Theresa Zorn",
