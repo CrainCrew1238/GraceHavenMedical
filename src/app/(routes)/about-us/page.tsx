@@ -73,12 +73,31 @@ const AboutUsPage = async () => {
         }}
       />
       <div className="py-4" style={{ backgroundColor: '#fff' }}>
-        <Container className="p-3" style={{ color: '#aa9c91', border: '2px solid #aa9c91', borderRadius: '8px', textAlign: 'center' }}>
+        <Container className="p-3 affiliate-partners" style={{ color: '#aa9c91', border: '2px solid #aa9c91', borderRadius: '8px', textAlign: 'center' }}>
           <h2>Affiliate Partners</h2>
-          <p>Grace Haven Medical is affiliated with top-tier suppliers and compounding pharmacies, all of which are LegitScript certified to ensure the highest quality compounds for our clients. Our trusted partners include:</p>
-          <p><strong>Strive Compounding Pharmacy</strong><br />3906 Cragmont Dr<br />Tampa, FL 33619<br /><u><a href="https://www.strivepharmacy.com/">Website</a></u></p>
-          <p><strong>The Pharmacy Hub</strong><br />Miami, FL<br /><u><a href="tel:+18889581382">(888) 958-1382</a></u></p>
-          <h5><strong>These partnerships help us deliver safe, effective, and personalized treatments to support your wellness journey.</strong></h5>
+          <p>Grace Haven Medical works with established pharmacy and supply partners to support individualized, clinician-directed care. All listed pharmacy partners are LegitScript certified and adhere to applicable compliance requirements.</p>
+          <div className="row g-4 text-start mt-1">
+            <div className="col-md-6">
+              <h4 className="text-center">Pharmacy Partners</h4>
+              <ul>
+                <li><strong>Nova Specialty Pharmacy</strong> <span className="text-muted">(White Label Pharmacy / SupplySync)</span></li>
+                <li><strong>Empower Pharmacy</strong></li>
+                <li><strong>Olympia Pharmaceuticals</strong></li>
+                <li><strong>Wesley Pharmaceuticals</strong></li>
+                <li><strong>Strive Compounding Pharmacy</strong></li>
+              </ul>
+            </div>
+            <div className="col-md-6">
+              <h4 className="text-center">Preferred Supply Partners</h4>
+              <ul>
+                <li><strong>GenoGenix</strong></li>
+                <li><strong>Hallandale Pharmacy</strong></li>
+                <li><strong>Wells Pharmacy Network</strong></li>
+              </ul>
+              <p className="small mb-0">Vendor selection, prescribing, and dispensing are determined case by case by the treating clinician and applicable law.</p>
+            </div>
+          </div>
+          <h5 className="mt-3"><strong>Our partners help us deliver safe, personalized care while maintaining an individualized clinical approach.</strong></h5>
         </Container>
       </div>
     </div>
