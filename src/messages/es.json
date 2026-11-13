@@ -1238,13 +1238,18 @@
         },
         {
           "name": "Suzy Dahdal",
-          "title": "NP"
+          "title": "APRN",
+          "imageURI": "/suzy-profile.png"
         },
         {
           "name": "Naomi Barragan",
           "title": "DEM y terapeuta principal de masaje para mujeres",
           "text": "Naomi Barragan es la DEM y terapeuta principal de masaje para mujeres de Grace Haven Medical. Se especializa en drenaje linfático, masajes deportivos y de relajación, ventosas, masajes prenatales y suecos, terapia infrarroja y terapia de luz roja.",
           "imageURI": "/naomi-barragan.jpg"
+        },
+        {
+          "name": "Dru Miranda",
+          "title": "Terapeuta de masaje licenciado"
         },
         {
           "name": "Arlyn Sieg",
