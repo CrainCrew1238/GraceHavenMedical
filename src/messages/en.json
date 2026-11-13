@@ -1206,13 +1206,18 @@
         },
         {
           "name": "Suzy Dahdal",
-          "title": "NP"
+          "title": "APRN",
+          "imageURI": "/suzy-profile.png"
         },
         {
           "name": "Naomi Barragan",
           "title": "DEM & Lead Female Massage Therapist",
           "text": "Naomi Barragan is Grace Haven Medical’s DEM and Lead Female Massage Therapist. She specializes in lymphatic drainage, sports and relaxation massage, cupping, prenatal and Swedish massage, infrared therapy, and red light therapy.",
           "imageURI": "/naomi-barragan.jpg"
+        },
+        {
+          "name": "Dru Miranda",
+          "title": "Licensed Massage Therapist"
         },
         {
           "name": "Arlyn Sieg",
