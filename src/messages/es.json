@@ -40,6 +40,16 @@
         "title": "pérdida de peso e inyecciones IM",
         "subtitle": "Potentes inyecciones IM para pérdida de peso + NAD + Boost",
         "link": "/weight-loss-and-anti-aging-injections"
+      },
+      {
+        "title": "Contorno Corporal Avanzado",
+        "subtitle": "Apoyo de contorno corporal y composición corporal basado en consulta",
+        "link": "/advanced-body-contouring"
+      },
+      {
+        "title": "Masaje y Renovación Corporal",
+        "subtitle": "Opciones de masaje, piedras calientes, estiramiento y recuperación",
+        "link": "/massage-body-renewal"
       }
     ],
     "diagnostics": [
@@ -67,6 +77,16 @@
         "title": "Composición corporal personalizada en 3D",
         "subtitle": "Imágenes avanzadas para el análisis de la composición corporal en 3D",
         "link": "/3d-body-composition"
+      },
+      {
+        "title": "Faciales y Renovación de la Piel",
+        "subtitle": "Faciales personalizados y experiencias de renovación de la piel",
+        "link": "/facials-skin-renewal"
+      },
+      {
+        "title": "Nuestra Tecnología",
+        "subtitle": "Explore la tecnología avanzada de Grace Haven Medical",
+        "link": "/our-technology"
       }
     ]
   },
