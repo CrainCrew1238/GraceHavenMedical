@@ -19,6 +19,10 @@ const ROUTES: { path: string; priority: number }[] = [
   { path: '/magnet-therapy', priority: 0.6 },
   { path: '/crunchi-skincare', priority: 0.5 },
   { path: '/patchaid-vitamins', priority: 0.5 },
+  { path: '/advanced-body-contouring', priority: 0.8 },
+  { path: '/massage-body-renewal', priority: 0.8 },
+  { path: '/facials-skin-renewal', priority: 0.8 },
+  { path: '/our-technology', priority: 0.7 },
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
