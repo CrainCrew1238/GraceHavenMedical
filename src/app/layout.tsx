@@ -97,6 +97,7 @@ export default async function RootLayout({
                   <div>{dict.footer.phoneNumber}: <a href="tel:+18134359193">(813) 435-9193</a></div>
                   <div>SMS: <a href="tel:+18337739131">833.773.9131</a></div>
                   <div>5132 Land O Lakes Blvd Ste 101, Land O' Lakes, FL 34639</div>
+                  <div>Massage Establishment License: MM48198</div>
                 </div>
                 <div className={styles.contactHours}>
                   <div>{dict.footer.monThursFri}</div>
