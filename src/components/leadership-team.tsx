@@ -28,7 +28,11 @@ export default function LeadershipTeam(props: LeadershipTeamProps) {
             <Col xs="12" md="6" lg="5" className="mt-4 mb-4" key={`${item.name}`}>
               <div className="d-flex flex-column align-items-center">
                 {item.imageURI && (
-                  <Image className={styles.leadershipTeamImage} src={item.imageURI} alt={`${item.name} image`} width={296} height={355} />
+                  item.imageURI.startsWith('/') ? (
+                    <img className={styles.leadershipTeamImage} src={item.imageURI} alt={`${item.name} image`} width={296} height={355} />
+                  ) : (
+                    <Image className={styles.leadershipTeamImage} src={item.imageURI} alt={`${item.name} image`} width={296} height={355} />
+                  )
                 )}
                 <strong className={`text-center ${item.imageURI ? 'mt-3' : ''}`}>{item.name.toUpperCase()}</strong>
                 <p className="text-center">{item.title}</p>
